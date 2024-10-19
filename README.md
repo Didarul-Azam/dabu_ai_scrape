@@ -110,7 +110,7 @@ The core libraries used in this project are:
    
    ```python
    asyncio.run(parse_using_ai("https://example.com", "output.html")) #second argument can be retrieved from return of save_page_html
- - **For using both at once**
+ - **For using both at once from terminal**
     ```python
     python html_saver.py #Then Follow the Prompts
 ### Song Downloader(yt_downloader)
