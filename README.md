@@ -56,13 +56,7 @@ Ensure all dependencies are installed by following the installation instructions
     pip install -r requirements.txt
     ```
 
-3. Install browser dependencies for Playwright:
 
-    ```bash
-    pip install playwright
-    ```
-
----
 
 ## Folder Structure
 
