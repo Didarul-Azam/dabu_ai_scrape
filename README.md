@@ -32,7 +32,7 @@ This project consists of two main components: a **web scraper** that uses `playw
 To run this project, you will need the following libraries:
 
 - `yt-dlp==2024.9.27`
-- `playwright==1.46.0`
+- `playwright==1.47.0`
 - `aiofiles`
 - `requests`
 - `asyncio`
