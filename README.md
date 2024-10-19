@@ -116,6 +116,9 @@ The core libraries used in this project are:
    
    ```python
    asyncio.run(parse_using_ai("https://example.com", "output.html")) #second argument can be retrieved from return of save_page_html
+ - **For using both at once**
+    ```python
+    python html_saver.py #Then Follow the Prompts
 ### Song Downloader(yt_downloader)
 1. **Download a song by title and artist:**
     The `download_song(song_title, artist, output_file)` function downloads a song based on the provided title and artist.
@@ -124,6 +127,9 @@ The core libraries used in this project are:
    
    ```python
    asyncio.run(download_song("Song Title", "Artist", "output_file"))
+- **For Running the file using Terminal**
+    ```python
+    python yt_downloader.py # Then Follow the prompts
 ### test.ipynb:
    - **`test.ipynb`** file demonstrates different asynchronous use cases for the project
 ## Logging:
