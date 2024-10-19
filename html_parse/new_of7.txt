@@ -1,0 +1,1705 @@
+<!DOCTYPE html><html class="no-touch js supports-js supports-no-touch supports-csstransforms supports-csstransforms3d supports-fontface"><!--<![endif]--><head>
+  <script type="text/javascript" async="" src="https://geolocation-recommendations.shopifyapps.com/locale_bar/script.js?shop=www-newzealandsouvenirs-com.myshopify.com"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=MC-3T41Q79764&amp;l=dataLayer&amp;cx=c"></script><script src="https://connect.facebook.net/signals/config/711142657695347?v=2.9.172&amp;r=stable&amp;domain=www.newzealandsouvenirs.com&amp;hme=d82868061a8c707cd31395a3055e7449daa03bd520872727258c39e6af34523e&amp;ex_m=70%2C120%2C106%2C110%2C61%2C4%2C99%2C69%2C16%2C96%2C88%2C51%2C54%2C171%2C174%2C186%2C182%2C183%2C185%2C29%2C100%2C53%2C77%2C184%2C166%2C169%2C179%2C180%2C187%2C130%2C41%2C34%2C142%2C15%2C50%2C193%2C192%2C132%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C92%2C17%2C14%2C95%2C91%2C90%2C107%2C52%2C109%2C39%2C108%2C30%2C93%2C26%2C167%2C170%2C139%2C85%2C56%2C83%2C33%2C73%2C0%2C94%2C32%2C28%2C82%2C87%2C47%2C46%2C86%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C101%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C103%2C102%2C104%2C97%2C10%2C20%2C3%2C38%2C74%2C19%2C5%2C89%2C81%2C44%2C35%2C84%2C2%2C36%2C63%2C42%2C105%2C45%2C79%2C68%2C111%2C60%2C59%2C31%2C98%2C58%2C55%2C49%2C78%2C72%2C24%2C112" async=""></script><script async="true" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-1072713470&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-X7FQDD2CD1&amp;cx=c&amp;_slc=1"></script><script type="text/javascript" async="" src="//www.newzealandsouvenirs.com/cdn/s/trekkie.storefront.a8ef5c2c4f1c6e0839c6b8857d0a2edb7d22d961.min.js"></script><script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+  <!-- Basic page needs ================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  
+  <link rel="shortcut icon" href="//www.newzealandsouvenirs.com/cdn/shop/files/favicon_32x32.png?v=1613710992" type="image/png">
+  
+
+  <!-- Title and description ================================================== -->
+  <title>
+  Speights Beer Medal T-shirt - 1016311 – New Zealand Souvenirs &amp; Gifts
+  </title>
+
+
+  
+    <meta name="description" content="new Zealand beer t-shirt Speights">
+  
+
+  <!-- Product meta ================================================== -->
+  
+<meta property="og:site_name" content="New Zealand Souvenirs &amp; Gifts">
+<meta property="og:url" content="https://www.newzealandsouvenirs.com/products/beer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220">
+<meta property="og:title" content="Speights Beer Medal T-shirt - 1016311">
+<meta property="og:type" content="product">
+<meta property="og:description" content="new Zealand beer t-shirt Speights"><meta property="og:price:amount" content="43.00">
+  <meta property="og:price:currency" content="NZD"><meta property="og:image" content="http://www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_1024x1024.png?v=1544219578">
+<meta property="og:image:secure_url" content="https://www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_1024x1024.png?v=1544219578">
+
+
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_1024x1024.png?v=1544219578">
+  <meta name="twitter:image:width" content="480">
+  <meta name="twitter:image:height" content="480">
+
+<meta name="twitter:title" content="Speights Beer Medal T-shirt - 1016311">
+<meta name="twitter:description" content="new Zealand beer t-shirt Speights">
+
+
+  <!-- Helpers ================================================== -->
+  <link rel="canonical" href="https://www.newzealandsouvenirs.com/products/beer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- CSS ================================================== -->
+  <link href="//www.newzealandsouvenirs.com/cdn/shop/t/4/assets/theme.scss.css?v=166179682834260196731704443171" rel="stylesheet" type="text/css" media="all">
+  
+  
+  
+  <link href="//fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css" media="all">
+
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Crimson+Text:700" rel="stylesheet" type="text/css" media="all">
+  
+
+
+  
+
+
+
+  <!-- Header hook for plugins ================================================== -->
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="google-site-verification" content="Ibi0YOAWbQUEj_fwyY-FXsmPaTzRN1d4IB7P0vz0PSk">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/23005965/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="5a6a6b8e28e0fface8b93682c3415865">
+<meta id="in-context-paypal-metadata" data-shop-id="23005965" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="NZD">
+<link rel="alternate" type="application/json+oembed" href="https://www.newzealandsouvenirs.com/products/beer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220.oembed">
+<script async="async" src="/checkouts/internal/preloads.js?locale=en-NZ"></script>
+<link rel="preconnect" href="https://shop.app" crossorigin="anonymous">
+<script async="async" src="https://shop.app/checkouts/internal/preloads.js?locale=en-NZ&amp;shop_id=23005965" crossorigin="anonymous"></script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":23005965,"countryCode":"NZ","currencyCode":"NZD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/23005965","merchantName":"New Zealand Souvenirs \u0026 Gifts","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","jcb"],"total":{"type":"pending","label":"New Zealand Souvenirs \u0026 Gifts","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"5a6a6b8e28e0fface8b93682c3415865","betas":["rich-media-storefront-analytics"],"domain":"www.newzealandsouvenirs.com","predictiveSearch":true,"shopId":23005965,"smart_payment_buttons_url":"https:\/\/www.newzealandsouvenirs.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/www.newzealandsouvenirs.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "www-newzealandsouvenirs-com.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"NZD","rate":"1.0"};
+Shopify.country = "NZ";
+Shopify.theme = {"name":"Supply","id":177650446,"theme_store_id":679,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "www.newzealandsouvenirs.com/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"product"}</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"pay-button":["modules/client.pay-button_BpwhY5jV.en.esm.js","modules/chunk.common_8Mg2OCc-.esm.js"],"init-shop-email-lookup-coordinator":["modules/client.init-shop-email-lookup-coordinator_DaAZyI-c.en.esm.js","modules/chunk.common_8Mg2OCc-.esm.js"],"init-customer-accounts-sign-up":["modules/client.init-customer-accounts-sign-up_8CL5mBO_.en.esm.js","modules/chunk.common_8Mg2OCc-.esm.js","modules/client.login-button_BKQVdt8e.en.esm.js"],"avatar":["modules/client.avatar_BTnouDA3.en.esm.js"],"shop-pay-checkout-sheet":["modules/client.shop-pay-checkout-sheet_DU9bRPVa.en.esm.js","modules/chunk.common_8Mg2OCc-.esm.js","modules/client.login-button_BKQVdt8e.en.esm.js"],"init-customer-accounts":["modules/client.init-customer-accounts_DbKrtEV9.en.esm.js","modules/chunk.common_8Mg2OCc-.esm.js","modules/client.login-button_BKQVdt8e.en.esm.js"],"init-shop-for-new-customer-accounts":["modules/client.init-shop-for-new-customer-accounts_cJE0z41C.en.esm.js","modules/chunk.common_8Mg2OCc-.esm.js","modules/client.login-button_BKQVdt8e.en.esm.js"],"shop-pay-payment-request":["modules/client.shop-pay-payment-request_CXyuJOUN.en.esm.js","modules/chunk.common_8Mg2OCc-.esm.js","modules/client.login-button_BKQVdt8e.en.esm.js","modules/chunk.shop-pay_TJEcC54I.esm.js"],"discount-app":["modules/client.discount-app_BXggKs5x.en.esm.js","modules/chunk.common_8Mg2OCc-.esm.js"],"payment-terms":["modules/client.payment-terms_CxiJCmmw.en.esm.js","modules/chunk.common_8Mg2OCc-.esm.js","modules/client.login-button_BKQVdt8e.en.esm.js"],"login-button":["modules/client.login-button_BKQVdt8e.en.esm.js","modules/chunk.common_8Mg2OCc-.esm.js"]};
+</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/geolocation-recommendations.shopifyapps.com\/locale_bar\/script.js?shop=www-newzealandsouvenirs-com.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":23005965,"offset":46800,"reqid":"0183e923-bc4d-432b-b182-884e7c07b7bf-1729358700","pageurl":"www.newzealandsouvenirs.com\/collections\/our-products\/products\/beer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220","u":"d8f9b91b18fd","p":"product","rtyp":"product","rid":11344578958};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(',');function s(t,e,n=!1){try{const o=window.sessionStorage;for(const[n,c]of Object.entries(JSON.parse(o.getItem(e))))t.elements[n]&&(t.elements[n].value=c);n&&o.removeItem(e)}catch{}}const a='form_key',i=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response','password'],u=()=>{try{return window.sessionStorage}catch{return}},m=t=>t.elements[a],f='form_type',d='cptcha';function p(t){t.dataset[d]=!0}const l=window,h=l.document,_='Shopify',y='ce_forms',E='captcha';let v=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe','https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.4.0.iife.js',T={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'},(t,e,n)=>{const o=l[_][y],c=o.bindForm;if(c)return c(t,g,e,T).then(n);o.q.push([[t,g,e,T],n]),v||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:'https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.4.0.iife.js'})),v=!0)});var g,T;l[_]=l[_]||{},l[_][y]=l[_][y]||{},l[_][y].q=[],l[_][E]=l[_][E]||{},l[_][E].protect=function(t,e){n(t,void 0,e),p(t)},Object.freeze(l[_][E]),function(t,e,n,l,h,_){const[y,E,v,g]=function(t,e,n){const s=e?o:[],a=t?c:[],i=[...s,...a],u=[...o],m=r(i),f=r(s),d=n&&r(i.filter((([t,e])=>n.includes(e)))),p=r(u),l=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];return[l(m),l(f),l(d),l(p)]}(l,h,_),T=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},S=t=>y().includes(t);t.addEventListener('submit',(t=>{const e=T(t);if(!e)return;const n=S(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=m(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!u())return;!function(t){const e=u();if(!e)return;const n=m(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){m(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:a})),t.elements[a].value=e}(t,e),function(t,e){const n=u();if(!n)return;const o=[...t.querySelectorAll('input[type="password"]')].map((({name:t})=>t)),c=[...i,...o],r={};for(const[s,a]of new FormData(t).entries())c.includes(s)||(r[s]=a);n.setItem(e,JSON.stringify(r))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const w=(t,e)=>{t&&!t.dataset[d]&&(n(t,e.some((e=>e===t))),p(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=T(t);S(e)&&w(e,E())}));const A=e.get('form_key'),b=e.get(f),I=A&&b;t.addEventListener('DOMContentLoaded',(()=>{const t=E();if(I)for(const e of t)e.elements[f].value===b&&s(e,A);[...new Set([...v(),...y().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>w(e,t)))}))}(h,new URLSearchParams(l.location.search),n,!0,!0,['guest_login'])})()}();</script>
+<script id="captcha-terms">!function(){'use strict';const e=/recaptcha|reCATPCHA|google|Googl/gi,t=o=>{let c=o.firstChild;for(;c;)c.nodeType===Node.TEXT_NODE?c.textContent=c.textContent.replace(e,'hCaptcha'):c.nodeType===Node.ELEMENT_NODE&&t(c),c=c.nextSibling};document.addEventListener('DOMContentLoaded',(()=>{(e=>{const o=document.querySelector('p[data-spam-detection-disclaimer]');if(o){for(const e of['terms','privacy']){const t=o.querySelector(`a[href*='https://policies.google.com/${e}']`);t&&(t.href=`https://hcaptcha.com/${e}`)}t(o)}})()}))}();</script>
+<script integrity="sha256-7/JJfxDXG7zQLENy79IvPH107WmaVwc8z5Er0jzsrPQ=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//www.newzealandsouvenirs.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-eff2497f10d71bbcd02c4372efd22f3c7d74ed699a57073ccf912bd23cecacf4.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//www.newzealandsouvenirs.com/cdn/shopifycloud/shopify/assets/shopify_pay/storefront-80e528be853eac23af2454534897ca9536b1d3d04aa043b042f34879a3c111c8.js?v=20220906"></script>
+<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="https://www.newzealandsouvenirs.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.buyer_consent">
+  function portableWalletsHideBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.add("hidden"),t.setAttribute("aria-hidden","true"),n.removeEventListener("click",e))}function portableWalletsShowBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.remove("hidden"),t.removeAttribute("aria-hidden"),n.addEventListener("click",e))}window.Shopify?.PaymentButton&&(window.Shopify.PaymentButton.hideBuyerConsent=portableWalletsHideBuyerConsent,window.Shopify.PaymentButton.showBuyerConsent=portableWalletsShowBuyerConsent);
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.cart.bootstrap">document.addEventListener("DOMContentLoaded",(function(){function t(){return document.querySelector("#dynamic-checkout-cart")}if(t())Shopify.PaymentButton.init();else{new MutationObserver((function(e,n){t()&&(Shopify.PaymentButton.init(),n.disconnect())})).observe(document.body,{childList:!0,subtree:!0})}}));
+</script>
+
+
+
+<style id="shopify-accelerated-checkout-cart">
+        #dynamic-checkout-cart {
+  container-type: inline-size;
+  container-name: dcc;
+  width: 100%;
+}
+
+.wallet-cart-grid {
+  --wallet-button-height-horizontal: clamp(
+    25px,
+    var(
+      --shopify-accelerated-checkout-button-inline-size,
+      42px
+    ),
+    55px
+  );
+  --wallet-button-height-vertical: clamp(
+    25px,
+    var(
+      --shopify-accelerated-checkout-button-block-size,
+      54px
+    ),
+    55px
+  );
+  --wallet-button-width-horizontal: 150px;
+  --wallet-button-width-vertical: 100%;
+  --wallet-button-border-radius: var(
+    --shopify-accelerated-checkout-button-border-radius,
+    4px
+  );
+  --wallet-grid-margin-horizontal: 0 -5px -5px -5px;
+  --wallet-button-container-margin-horizontal: 0 5px 5px;
+  --wallet-button-container-margin-vertical: var(--shopify-accelerated-checkout-row-gap, 8px) 0 0;
+}
+
+@keyframes acceleratedCheckoutLoadingSkeleton {
+  50% {opacity: var(--shopify-accelerated-checkout-skeleton-animation-opacity-start, 1);}
+  75% {opacity: var(--shopify-accelerated-checkout-skeleton-animation-opacity-end, 0.5);}
+  100% {opacity: var(--shopify-accelerated-checkout-skeleton-animation-opacity-start, 1);}
+}
+
+.wallet-cart-button__skeleton {
+  animation: acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration, 4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function, ease) infinite;
+  animation-delay: -0.168s;
+  background-color: var(--shopify-accelerated-checkout-skeleton-background-color, #dedede);
+  box-sizing: border-box;
+  text-decoration: none !important;
+}
+
+.wallet-cart-grid {
+  margin: var(--wallet-grid-margin-horizontal);
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: var(--shopify-accelerated-checkout-inline-alignment, start);
+  gap: 0 !important;
+}
+
+.wallet-cart-grid--skeleton {
+  justify-content: var(--shopify-accelerated-checkout-inline-alignment, inherit);
+}
+
+.wallet-cart-button-container {
+  position: relative;
+  margin: var(--wallet-button-container-margin-horizontal);
+}
+
+.wallet-cart-button-container,
+.wallet-cart-button {
+  width: var(--wallet-button-width-horizontal);
+  height: var(--wallet-button-height-horizontal);
+  border-radius: var(--wallet-button-border-radius);
+  list-style-type: none !important;
+  text-align: center;
+  flex-shrink: 0;
+  flex-grow: 0;
+}
+
+.additional-checkout-buttons--vertical .wallet-cart-grid {
+  justify-content: start;
+  flex-direction: column;
+  margin: 0;
+}
+.additional-checkout-buttons--vertical .wallet-cart-grid .wallet-cart-button-container {
+  width: var(--wallet-button-width-vertical);
+  height: var(--wallet-button-height-vertical);
+  margin: var(--wallet-button-container-margin-vertical);
+}
+.additional-checkout-buttons--vertical .wallet-cart-grid .wallet-cart-button-container:first-child {
+  margin-top: 0;
+}
+.additional-checkout-buttons--vertical .wallet-cart-grid .wallet-cart-button {
+  width: var(--wallet-button-width-vertical);
+  height: var(--wallet-button-height-vertical);
+}
+
+.additional-checkout-buttons--horizontal .wallet-cart-grid .wallet-cart-button-container,
+.additional-checkout-buttons--horizontal .wallet-cart-grid .wallet-cart-button {
+  width: var(--wallet-button-width-horizontal) !important;
+  height: var(--wallet-button-height-horizontal) !important;
+  border-radius: var(--wallet-button-border-radius) !important;
+}
+
+@container dcc (width >= 150px) and (width <= 500px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(1)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(2))) {
+    justify-content: start;
+    flex-direction: column;
+    margin: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(1)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(2))) .wallet-cart-button-container {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+    margin: var(--wallet-button-container-margin-vertical);
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(1)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(2))) .wallet-cart-button-container:first-child {
+    margin-top: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(1)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(2))) .wallet-cart-button {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+  }
+}
+
+@container dcc (width <= 310px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(2)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(3))) {
+    justify-content: start;
+    flex-direction: column;
+    margin: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(2)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(3))) .wallet-cart-button-container {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+    margin: var(--wallet-button-container-margin-vertical);
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(2)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(3))) .wallet-cart-button-container:first-child {
+    margin-top: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(2)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(3))) .wallet-cart-button {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+  }
+}
+
+@container dcc (width <= 470px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(3)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(4))) {
+    justify-content: start;
+    flex-direction: column;
+    margin: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(3)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(4))) .wallet-cart-button-container {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+    margin: var(--wallet-button-container-margin-vertical);
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(3)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(4))) .wallet-cart-button-container:first-child {
+    margin-top: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(3)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(4))) .wallet-cart-button {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+  }
+}
+
+@container dcc (width <= 630px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(4)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(5))) {
+    justify-content: start;
+    flex-direction: column;
+    margin: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(4)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(5))) .wallet-cart-button-container {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+    margin: var(--wallet-button-container-margin-vertical);
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(4)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(5))) .wallet-cart-button-container:first-child {
+    margin-top: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(4)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(5))) .wallet-cart-button {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+  }
+}
+
+@container dcc (width <= 790px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(5)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(6))) {
+    justify-content: start;
+    flex-direction: column;
+    margin: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(5)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(6))) .wallet-cart-button-container {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+    margin: var(--wallet-button-container-margin-vertical);
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(5)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(6))) .wallet-cart-button-container:first-child {
+    margin-top: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(5)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(6))) .wallet-cart-button {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+  }
+}
+
+.wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(6)) {
+  justify-content: start;
+  flex-direction: column;
+  margin: 0;
+}
+.wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(6)) .wallet-cart-button-container {
+  width: var(--wallet-button-width-vertical);
+  height: var(--wallet-button-height-vertical);
+  margin: var(--wallet-button-container-margin-vertical);
+}
+.wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(6)) .wallet-cart-button-container:first-child {
+  margin-top: 0;
+}
+.wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(6)) .wallet-cart-button {
+  width: var(--wallet-button-width-vertical);
+  height: var(--wallet-button-height-vertical);
+}
+
+@media screen and (max-width: 750px) {
+  .wallet-cart-grid {
+    justify-content: start;
+    flex-direction: column;
+    max-width: none;
+    margin: 0;
+  }
+  .wallet-cart-grid .wallet-cart-button-container {
+    max-width: none;
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+    margin: var(--wallet-button-container-margin-vertical);
+  }
+  .wallet-cart-grid .wallet-cart-button-container:first-child {
+    margin-top: 0;
+  }
+  .wallet-cart-grid .wallet-cart-button {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+  }
+}
+
+@supports (not (container-type: inline-size)) or (not (selector(:has(*)))) {
+  .wallet-cart-grid {
+    justify-content: start;
+    flex-direction: column;
+    margin: 0;
+  }
+  .wallet-cart-button-container {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+    margin: var(--wallet-button-container-margin-vertical);
+  }
+  .wallet-cart-button-container:first-child {
+    margin-top: 0;
+  }
+  .wallet-cart-grid .wallet-cart-button {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+  }
+}
+
+        #shopify-buyer-consent {
+  margin-top: 1em;
+  display: inline-block;
+  width: 100%;
+}
+
+#shopify-buyer-consent.hidden {
+  display: none;
+}
+
+#shopify-subscription-policy-button {
+  background: none;
+  border: none;
+  padding: 0;
+  text-decoration: underline;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+#shopify-subscription-policy-button::before {
+  box-shadow: none;
+}
+
+      </style>
+
+<style id="shopify-accelerated-checkout-cart-grid-with-margin-top">.additional-checkout-buttons--vertical .wallet-cart-grid .wallet-cart-button-container:first-child {
+  margin-top: 8px;
+}
+
+
+@container dcc (width >= 150px) and (width <= 500px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(1)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(2))) .wallet-cart-button-container:first-child {
+    margin-top: 8px;
+  }
+}
+
+@container dcc (width <= 310px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(2)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(3))) .wallet-cart-button-container:first-child {
+    margin-top: 8px;
+  }
+}
+
+@container dcc (width <= 470px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(3)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(4))) .wallet-cart-button-container:first-child {
+    margin-top: 8px;
+  }
+}
+
+@container dcc (width <= 630px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(4)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(5))) .wallet-cart-button-container:first-child {
+    margin-top: 8px;
+  }
+}
+
+@container dcc (width <= 790px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(5)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(6))) .wallet-cart-button-container:first-child {
+    margin-top: 8px;
+  }
+}
+
+.wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(6)) .wallet-cart-button-container:first-child {
+  margin-top: 8px;
+}
+
+@media screen and (max-width: 750px) {
+  .wallet-cart-grid .wallet-cart-button-container:first-child {
+    margin-top: 8px;
+  }
+}
+
+@supports (not (container-type: inline-size)) or (not (selector(:has(*)))) {
+  .wallet-cart-button-container:first-child {
+    margin-top: 8px;
+  }
+}
+</style>
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+  
+
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript"></script>
+<script src="//www.newzealandsouvenirs.com/cdn/shop/t/4/assets/respond.min.js?75" type="text/javascript"></script>
+<link href="//www.newzealandsouvenirs.com/cdn/shop/t/4/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="//www.newzealandsouvenirs.com/search?q=7b809e79c225ae44ea399db603b3f0bd" id="respond-redirect" rel="respond-redirect" />
+<script src="//www.newzealandsouvenirs.com/search?q=7b809e79c225ae44ea399db603b3f0bd" type="text/javascript"></script>
+<![endif]-->
+<!--[if (lte IE 9) ]><script src="//www.newzealandsouvenirs.com/cdn/shop/t/4/assets/match-media.min.js?75" type="text/javascript"></script><![endif]-->
+
+
+  
+  
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+  
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//www.newzealandsouvenirs.com/cdn/shop/t/4/assets/lazysizes.min.js?v=8147953233334221341504404514" async="async"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//www.newzealandsouvenirs.com/cdn/shop/t/4/assets/lazysizes.min.js?v=8147953233334221341504404514"></script><![endif]-->
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//www.newzealandsouvenirs.com/cdn/shop/t/4/assets/vendor.js?v=122134087407227584631504404515" defer="defer"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//www.newzealandsouvenirs.com/cdn/shop/t/4/assets/vendor.js?v=122134087407227584631504404515"></script><![endif]-->
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//www.newzealandsouvenirs.com/cdn/shop/t/4/assets/theme.js?v=98314232454999097801504404517" defer="defer"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//www.newzealandsouvenirs.com/cdn/shop/t/4/assets/theme.js?v=98314232454999097801504404517"></script><![endif]-->
+
+
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 23005965,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function d(d,e,r,a,n){var o,i,t,s,l=(i=(o={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](12[89]|1[3-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(12[7-9]|1[3-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(12[89]|1[3-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](12[89]|1[3-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(12[7-9]|1[3-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(12[89]|1[3-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/}).modern,t=o.legacy,s=navigator.userAgent,i.test(s)?"modern":(t.test(s),"legacy"));window.Shopify=window.Shopify||{};var c=window.Shopify;c.analytics=c.analytics||{};var u=c.analytics;u.replayQueue=[],u.publish=function(d,e,r){return u.replayQueue.push([d,e,r]),!0};try{self.performance.mark("wpm:start")}catch(d){}var h=[r,"/wpm","/b",n,l.substring(0,1),".js"].join("");!function(d){var e=d.src,r=d.async,a=void 0===r||r,n=d.onload,o=d.onerror,i=document.createElement("script"),t=document.head,s=document.body;i.async=a,i.src=e,n&&i.addEventListener("load",n),o&&i.addEventListener("error",o),t?t.appendChild(i):s?s.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:h,async:!0,onload:function(){var r=window.webPixelsManager.init(d);e(r);var a=window.Shopify.analytics;a.replayQueue.forEach((function(d){var e=d[0],a=d[1],n=d[2];r.publishCustomEvent(e,a,n)})),a.replayQueue=[],a.publish=r.publishCustomEvent,a.visitor=r.visitor},onerror:function(){var e=d.storefrontBaseUrl.replace(/\/$/,""),r="".concat(e,"/.well-known/shopify/monorail/unstable/produce_batch"),n=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/3.1",payload:{version:a||"latest",bundle_target:l,page_url:self.location.href,status:"failed",surface:d.surface,error_msg:"".concat(h," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(r,n))return!0}catch(d){}var o=new XMLHttpRequest;try{return o.open("POST",r,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(n),!0}catch(d){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 23005965,storefrontBaseUrl: "https://www.newzealandsouvenirs.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",surface: "storefront-renderer",enabledBetaFlags: [],webPixelsConfigList: [{"id":"361070652","configuration":"{\"config\":\"{\\\"pixel_id\\\":\\\"AW-1072713470\\\",\\\"target_country\\\":\\\"NZ\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"search\\\",\\\"action_label\\\":\\\"AW-1072713470\\\/V5oACJauoYsBEP6dwf8D\\\"},{\\\"type\\\":\\\"begin_checkout\\\",\\\"action_label\\\":\\\"AW-1072713470\\\/CCFxCPaloYsBEP6dwf8D\\\"},{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":[\\\"AW-1072713470\\\/HopuCPCloYsBEP6dwf8D\\\",\\\"MC-3T41Q79764\\\"]},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":[\\\"AW-1072713470\\\/8ptACO2loYsBEP6dwf8D\\\",\\\"MC-3T41Q79764\\\"]},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":[\\\"AW-1072713470\\\/hh0bCOqloYsBEP6dwf8D\\\",\\\"MC-3T41Q79764\\\"]},{\\\"type\\\":\\\"add_payment_info\\\",\\\"action_label\\\":\\\"AW-1072713470\\\/vMSmCJmuoYsBEP6dwf8D\\\"},{\\\"type\\\":\\\"add_to_cart\\\",\\\"action_label\\\":\\\"AW-1072713470\\\/HzB7CPOloYsBEP6dwf8D\\\"}],\\\"enable_monitoring_mode\\\":false}\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"a46b87f88a4ff97a9490f9aa4799ba7b","type":"APP","apiClientId":1780363,"privacyPurposes":[]},{"id":"114131004","configuration":"{\"pixel_id\":\"711142657695347\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"8b3843af2d71780cfb83fdde884ce168","type":"APP","apiClientId":2329312,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0220","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0220","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,initData: {"shop":{"name":"New Zealand Souvenirs \u0026 Gifts","paymentSettings":{"currencyCode":"NZD"},"myshopifyDomain":"www-newzealandsouvenirs-com.myshopify.com","countryCode":"NZ","storefrontUrl":"https:\/\/www.newzealandsouvenirs.com"},"customer":null,"cart":null,"checkout":null,"productVariants":[{"price":{"amount":43.0,"currencyCode":"NZD"},"product":{"title":"Speights Beer Medal T-shirt - 1016311","vendor":"Beer Clothing","id":"11344578958","untranslatedTitle":"Speights Beer Medal T-shirt - 1016311","url":"\/products\/beer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220","type":"Beer Gear"},"id":"32655396470844","image":{"src":"\/\/www.newzealandsouvenirs.com\/cdn\/shop\/products\/speights_medal_t_shirt.png?v=1544219578"},"sku":"1016311","title":"Medium","untranslatedTitle":"Medium"},{"price":{"amount":43.0,"currencyCode":"NZD"},"product":{"title":"Speights Beer Medal T-shirt - 1016311","vendor":"Beer Clothing","id":"11344578958","untranslatedTitle":"Speights Beer Medal T-shirt - 1016311","url":"\/products\/beer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220","type":"Beer Gear"},"id":"45010615630","image":{"src":"\/\/www.newzealandsouvenirs.com\/cdn\/shop\/products\/speights_medal_t_shirt.png?v=1544219578"},"sku":"1016311","title":"Large","untranslatedTitle":"Large"},{"price":{"amount":43.0,"currencyCode":"NZD"},"product":{"title":"Speights Beer Medal T-shirt - 1016311","vendor":"Beer Clothing","id":"11344578958","untranslatedTitle":"Speights Beer Medal T-shirt - 1016311","url":"\/products\/beer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220","type":"Beer Gear"},"id":"32655396536380","image":{"src":"\/\/www.newzealandsouvenirs.com\/cdn\/shop\/products\/speights_medal_t_shirt.png?v=1544219578"},"sku":"1016311","title":"XLarge","untranslatedTitle":"XLarge"}],"purchasingCompany":null},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed", {});webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"price":{"amount":43.0,"currencyCode":"NZD"},"product":{"title":"Speights Beer Medal T-shirt - 1016311","vendor":"Beer Clothing","id":"11344578958","untranslatedTitle":"Speights Beer Medal T-shirt - 1016311","url":"\/products\/beer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220","type":"Beer Gear"},"id":"32655396470844","image":{"src":"\/\/www.newzealandsouvenirs.com\/cdn\/shop\/products\/speights_medal_t_shirt.png?v=1544219578"},"sku":"1016311","title":"Medium","untranslatedTitle":"Medium"}});},"https://www.newzealandsouvenirs.com/cdn","adb3a8121d63f7f6b1fa57e7313d82c7a64d70d6","8688a91bwbd065f36p51297ecfmc385dee2",);</script><script async="" src="https://www.newzealandsouvenirs.com/cdn/wpm/b8688a91bwbd065f36p51297ecfmc385dee2m.js"></script>  <script>window['GoogleAnalyticsObject'] = 'ga';
+window['ga'] = window['ga'] || function() {
+  (window['ga'].q = window['ga'].q || []).push(arguments);
+};
+window['ga'].l = 1 * new Date();</script>
+<script>var _gaUTrackerOptions = {'allowLinker': true};ga('create', 'UA-105690025-1', 'auto', _gaUTrackerOptions);ga('send', 'pageview');
+      (function(){
+        ga('require', 'linker');
+        function addListener(element, type, callback) {
+          if (element.addEventListener) {
+            element.addEventListener(type, callback);
+          }
+          else if (element.attachEvent) {
+            element.attachEvent('on' + type, callback);
+          }
+        }
+        function decorate(event) {
+          event = event || window.event;
+          var target = event.target || event.srcElement;
+          if (target && (target.action || target.href)) {
+            ga(function (tracker) {
+              var linkerParam = tracker.get('linkerParam');
+              document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+            });
+          }
+        }
+        addListener(window, 'load', function(){
+          for (var i=0; i<document.forms.length; i++) {
+            if(document.forms[i].action && document.forms[i].action.indexOf('/cart') >= 0) {
+              addListener(document.forms[i], 'submit', decorate);
+            }
+          }
+          for (var i=0; i<document.links.length; i++) {
+            if(document.links[i].href && document.links[i].href.indexOf('/checkout') >= 0) {
+              addListener(document.links[i], 'click', decorate);
+            }
+          }
+        })
+      }());
+    </script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'NZD';
+var meta = {"product":{"id":11344578958,"gid":"gid:\/\/shopify\/Product\/11344578958","vendor":"Beer Clothing","type":"Beer Gear","variants":[{"id":32655396470844,"price":4300,"name":"Speights Beer Medal T-shirt - 1016311 - Medium","public_title":"Medium","sku":"1016311"},{"id":45010615630,"price":4300,"name":"Speights Beer Medal T-shirt - 1016311 - Large","public_title":"Large","sku":"1016311"},{"id":32655396536380,"price":4300,"name":"Speights Beer Medal T-shirt - 1016311 - XLarge","public_title":"XLarge","sku":"1016311"}]},"page":{"pageType":"product","resourceType":"product","resourceId":11344578958}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 23005965,
+      theme_id: 177650446,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//www.newzealandsouvenirs.com/cdn/s/trekkie.storefront.a8ef5c2c4f1c6e0839c6b8857d0a2edb7d22d961.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//www.newzealandsouvenirs.com/cdn/s/trekkie.storefront.a8ef5c2c4f1c6e0839c6b8857d0a2edb7d22d961.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//www.newzealandsouvenirs.com/cdn/s/trekkie.storefront.a8ef5c2c4f1c6e0839c6b8857d0a2edb7d22d961.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":23005965,"isMerchantRequest":null,"themeId":177650446,"themeCityHash":"5290463169003248799","contentLanguage":"en","currency":"NZD"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"source":"trekkie-storefront-renderer","apiClientId":580111}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+  
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":11344578958});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"NZD","variantId":32655396470844,"productId":11344578958,"productGid":"gid:\/\/shopify\/Product\/11344578958","name":"Speights Beer Medal T-shirt - 1016311 - Medium","price":"43.00","sku":"1016311","brand":"Beer Clothing","variant":"Medium","category":"Beer Gear","nonInteraction":true});
+      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"NZD","variantId":32655396470844,"productId":11344578958,"productGid":"gid:\/\/shopify\/Product\/11344578958","name":"Speights Beer Medal T-shirt - 1016311 - Medium","price":"43.00","sku":"1016311","brand":"Beer Clothing","variant":"Medium","category":"Beer Gear","nonInteraction":true,"referer":"https:\/\/www.newzealandsouvenirs.com\/collections\/our-products\/products\/beer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220"});
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//www.newzealandsouvenirs.com/cdn/shopifycloud/shopify/assets/shop_events_listener-61fa9e0a912c675e178777d2b27f6cbd482f8912a6b0aa31fa3515985a8cd626.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script><script async="" src="//www.newzealandsouvenirs.com/cdn/shopifycloud/shopify/assets/shop_events_listener-61fa9e0a912c675e178777d2b27f6cbd482f8912a6b0aa31fa3515985a8cd626.js"></script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Supply";
+  window.BOOMR.themeVersion = "2.4.1";
+  window.BOOMR.shopId = 23005965;
+  window.BOOMR.themeId = 177650446;
+  window.BOOMR.renderRegion = "gcp-asia-southeast1";
+  window.BOOMR.url =
+    "https://www.newzealandsouvenirs.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script><link href="https://www.newzealandsouvenirs.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js" rel="preload" as="script">
+<script defer="" src="https://www.newzealandsouvenirs.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-1.0.0.min.js" data-application="storefront-renderer" data-shop-id="23005965" data-render-region="gcp-asia-southeast1" data-page-type="product" data-theme-instance-id="177650446" data-monorail-region="shop_domain" data-resource-timing-sampling-rate="10"></script>
+<script async="async" src="https://www.google-analytics.com/analytics.js"></script>
+<script id="boomr-scr-as" src="https://www.newzealandsouvenirs.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js" async=""></script><script type="text/javascript" src="https://cdn.shopify.com/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js"></script><script src="https://www.newzealandsouvenirs.com/wpm@8688a91bwbd065f36p51297ecfmc385dee2/app/web-pixel-361070652@a46b87f88a4ff97a9490f9aa4799ba7b/pixel.modern.js" async=""></script><script src="https://www.newzealandsouvenirs.com/wpm@8688a91bwbd065f36p51297ecfmc385dee2/app/web-pixel-114131004@8b3843af2d71780cfb83fdde884ce168/pixel.modern.js" async=""></script><script attributionsrc="" type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion/1072713470/?random=1729361760968&amp;cv=11&amp;fst=1729361760968&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be4ah0za200zb9137938344&amp;gcs=G111&amp;gcd=13t3t3t3t5l1&amp;dma=0&amp;tag_exp=101533421~101686685~101836706&amp;u_w=1280&amp;u_h=720&amp;url=https%3A%2F%2Fwww.newzealandsouvenirs.com%2Fcollections%2Four-products%2Fproducts%2Fbeer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220&amp;label=hh0bCOqloYsBEP6dwf8D&amp;tiba=Speights%20Beer%20Medal%20T-shirt%20-%201016311%20%E2%80%93%20New%20Zealand%20Souvenirs%20%26%20Gifts&amp;hn=www.googleadservices.com&amp;frm=0&amp;did=dNzYwYj&amp;gdid=dNzYwYj&amp;gtm_ee=1&amp;rdp=0&amp;npa=0&amp;pscdl=noapi&amp;auid=1954232514.1729361761&amp;uaa=arm&amp;uab=64&amp;uafvl=HeadlessChrome%3B129.0.6668.29%7CNot%253DA%253FBrand%3B8.0.0.0%7CChromium%3B129.0.6668.29&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=14.7.0&amp;uaw=0&amp;fledge=1&amp;capi=1&amp;data=event%3Dpage_view%3Bpage_path%3D%2Fcollections%2Four-products%2Fproducts%2Fbeer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220&amp;rfmt=3&amp;fmt=4"></script><script attributionsrc="" type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion/1072713470/?random=1729361760973&amp;cv=11&amp;fst=1729361760973&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be4ah0za200zb9137938344&amp;gcs=G111&amp;gcd=13t3t3t3t5l1&amp;dma=0&amp;tag_exp=101533421~101686685~101836706&amp;u_w=1280&amp;u_h=720&amp;url=https%3A%2F%2Fwww.newzealandsouvenirs.com%2Fcollections%2Four-products%2Fproducts%2Fbeer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220&amp;label=HopuCPCloYsBEP6dwf8D&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Speights%20Beer%20Medal%20T-shirt%20-%201016311%20%E2%80%93%20New%20Zealand%20Souvenirs%20%26%20Gifts&amp;did=dNzYwYj&amp;gdid=dNzYwYj&amp;gtm_ee=1&amp;rdp=0&amp;npa=0&amp;pscdl=noapi&amp;auid=1954232514.1729361761&amp;uaa=arm&amp;uab=64&amp;uafvl=HeadlessChrome%3B129.0.6668.29%7CNot%253DA%253FBrand%3B8.0.0.0%7CChromium%3B129.0.6668.29&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=14.7.0&amp;uaw=0&amp;fledge=1&amp;capi=1&amp;data=event%3Dview_item%3Becomm_prodid%3Dshopify_NZ_11344578958_32655396470844%3Becomm_totalvalue%3D43%3Becomm_pagetype%3Dproduct&amp;rfmt=3&amp;fmt=4"></script><link rel="dns-prefetch preconnect" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/polyfills.IegWBDja.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/app.N7Mw_SgP.js" crossorigin=""><style></style><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/OnePage.4to8v4f0.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/DeliveryMethodSelectorSection.WkZCjYvv.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/useUnauthenticatedErrorModal.TWj8ET7G.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/LegacyVaultedShippingMethods.DKk6wpYU.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/Rollup.A_QgBG0w.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/SubscriptionPriceBreakdown.DZgOvvxL.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/MarketsProDisclaimer.DYDphzBI.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/ShopPayLogo.TNQhZe8W.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/index.DiYJkNCQ.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/PickupPointCarrierLogo.D0P9Zf3S.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/hooks.BXtegTEl.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/VaultedPayment.BWQwb__4.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/OnePageModal.BlAZlHMG.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/useShowShopPayOptin.Cja6MWrQ.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/Section.C4a3Gdzt.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/useGooglePaySdk.DzZp3BR2.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/ShopPayLoginLoader.CY5otlm0.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/publishMessage.nDT-0YCf.js" crossorigin=""></head>
+
+<body id="speights-beer-medal-t-shirt-1016311" class="template-product"><div></div>
+
+  <div id="shopify-section-header" class="shopify-section header-section"><header class="site-header" role="banner" data-section-id="header" data-section-type="header-section">
+  <div class="wrapper">
+
+    <div class="grid--full">
+      <div class="grid-item large--one-half">
+        
+          <div class="h1 header-logo" itemscope="" itemtype="http://schema.org/Organization">
+        
+          
+          
+
+          <a href="/" itemprop="url">
+            <div class="lazyload__image-wrapper no-js" style="max-width:400px;">
+              <div style="padding-top:40.85027726432532%;">
+                <img class="js lazyautosizes lazyloaded" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="2.4479638009049776" data-sizes="auto" alt="New Zealand Gifts and New Zealand Souvenirs online" style="width:400px;" data-srcset="//www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_180x.png?v=1613710992 180w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_360x.png?v=1613710992 360w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_540x.png?v=1613710992 540w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_720x.png?v=1613710992 720w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_900x.png?v=1613710992 900w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_1080x.png?v=1613710992 1080w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_1296x.png?v=1613710992 1296w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_1512x.png?v=1613710992 1512w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_1728x.png?v=1613710992 1728w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_2048x.png?v=1613710992 2048w" sizes="400px" srcset="//www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_180x.png?v=1613710992 180w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_360x.png?v=1613710992 360w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_540x.png?v=1613710992 540w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_720x.png?v=1613710992 720w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_900x.png?v=1613710992 900w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_1080x.png?v=1613710992 1080w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_1296x.png?v=1613710992 1296w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_1512x.png?v=1613710992 1512w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_1728x.png?v=1613710992 1728w, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_2048x.png?v=1613710992 2048w">
+              </div>
+            </div>
+            <noscript>
+              
+              <img src="//www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_400x.png?v=1613710992"
+                srcset="//www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_400x.png?v=1613710992 1x, //www.newzealandsouvenirs.com/cdn/shop/files/logo-kiwi-map_eef48fee-519f-4ef6-938b-1cb691a797db_400x@2x.png?v=1613710992 2x"
+                alt="New Zealand Gifts and New Zealand Souvenirs online"
+                itemprop="logo"
+                style="max-width:400px;">
+            </noscript>
+          </a>
+          
+        
+          </div>
+        
+      </div>
+
+      <div class="grid-item large--one-half text-center large--text-right">
+        
+          <div class="site-header--text-links">
+            
+              
+                <a href="/collections">
+              
+
+                <p>Shop For New Zealand Gifts &amp; Souvenirs Online</p>
+
+              
+                </a>
+              
+            
+
+            
+              <span class="site-header--meta-links medium-down--hide">
+                
+                  <a href="/account/login" id="customer_login_link">Sign in</a>
+                  <span class="site-header--spacer">or</span>
+                  <a href="/account/register" id="customer_register_link">Create an Account</a>
+                
+              </span>
+            
+          </div>
+
+          <br class="medium-down--hide">
+        
+
+        <form action="/search" method="get" class="search-bar" role="search">
+  <input type="hidden" name="type" value="product">
+
+  <input type="search" name="q" value="" placeholder="Search all products..." aria-label="Search all products...">
+  <button type="submit" class="search-bar--submit icon-fallback-text">
+    <span class="icon icon-search" aria-hidden="true"></span>
+    <span class="fallback-text">Search</span>
+  </button>
+</form>
+
+
+        <a href="/cart" class="header-cart-btn cart-toggle">
+          <span class="icon icon-cart"></span>
+          Cart <span class="cart-count cart-badge--desktop hidden-count">0</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</header>
+
+<nav class="nav-bar" role="navigation">
+  <div class="wrapper">
+    <form action="/search" method="get" class="search-bar" role="search">
+  <input type="hidden" name="type" value="product">
+
+  <input type="search" name="q" value="" placeholder="Search all products..." aria-label="Search all products...">
+  <button type="submit" class="search-bar--submit icon-fallback-text">
+    <span class="icon icon-search" aria-hidden="true"></span>
+    <span class="fallback-text">Search</span>
+  </button>
+</form>
+
+    <ul class="site-nav" id="accessibleNav">
+  
+  <li class="large--hide" style="">
+    <a href="/">Home</a>
+  </li>
+  
+  
+    
+    
+      <li class="site-nav--has-dropdown" aria-haspopup="true">
+        <a href="#">
+          T-Shirts
+          <span class="icon-fallback-text">
+            <span class="icon icon-arrow-down" aria-hidden="true"></span>
+          </span>
+        </a>
+        <ul class="site-nav--dropdown">
+          
+            <li><a href="/collections/t-shirts-and-polo-shirts-childrens-new-zealand-t-shirts">Children</a></li>
+          
+            <li><a href="/collections/t-shirts-and-polo-shirts-womens-new-zealand-t-shirts">Women</a></li>
+          
+            <li><a href="/collections/t-shirts-and-polo-shirts-unisex-nz-t-shirts">Unisex</a></li>
+          
+            <li><a href="/collections/t-shirts-and-polo-shirts-polo-shirts">Polo Shirts</a></li>
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+      <li class="site-nav--has-dropdown" aria-haspopup="true">
+        <a href="#">
+          Kiwi Gifts
+          <span class="icon-fallback-text">
+            <span class="icon icon-arrow-down" aria-hidden="true"></span>
+          </span>
+        </a>
+        <ul class="site-nav--dropdown">
+          
+            <li><a href="/collections/kiwi-gifts-assorted-new-zealand-gifts">Assorted Gifts</a></li>
+          
+            <li><a href="/collections/kiwi-gifts-bags-and-back-packs">Bags and Back Packs</a></li>
+          
+            <li><a href="/collections/nz-toys-and-games">Toys and Games</a></li>
+          
+            <li><a href="/collections/kiwi-gifts-key-rings-lapel-badges-and-spoons">Key Rings, Lapel Badges and Spoons</a></li>
+          
+            <li><a href="/collections/kiwi-gifts-nz-stationery">Stationery</a></li>
+          
+            <li><a href="/collections/kiwi-gifts-plates-and-tiles-from-nz">Plate &amp; Tiles</a></li>
+          
+            <li><a href="/collections/kiwi-gifts-new-zealand-books">New Zealand Books</a></li>
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+      <li class="site-nav--has-dropdown" aria-haspopup="true">
+        <a href="#">
+          Clothing
+          <span class="icon-fallback-text">
+            <span class="icon icon-arrow-down" aria-hidden="true"></span>
+          </span>
+        </a>
+        <ul class="site-nav--dropdown">
+          
+            <li><a href="/collections/new-zealand-hats">New Zealand Hats</a></li>
+          
+            <li><a href="/collections/clothing-foot-underwear">Foot &amp; Underwear</a></li>
+          
+            <li><a href="/collections/clothing-jackets-sweat-shirts">Jackets &amp; Sweat Tops</a></li>
+          
+            <li><a href="/collections/clothing-baby-infants">Baby Infants</a></li>
+          
+            <li><a href="/collections/clothing-merino-wool-clothing">Merino Wool Clothing</a></li>
+          
+            <li><a href="/collections/scarves-gloves-wraps">Scarves, Gloves &amp; Wraps</a></li>
+          
+            <li><a href="/collections/clothing-rugby-clothing">Rugby Clothing</a></li>
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+      <li class="site-nav--has-dropdown" aria-haspopup="true">
+        <a href="#">
+          Beer Gear
+          <span class="icon-fallback-text">
+            <span class="icon icon-arrow-down" aria-hidden="true"></span>
+          </span>
+        </a>
+        <ul class="site-nav--dropdown">
+          
+            <li><a href="/collections/beer-gear-beer-clothing">Beer Clothing</a></li>
+          
+            <li><a href="/collections/beer-gear-beer-accessories">Beer Accessories</a></li>
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+      <li class="site-nav--has-dropdown" aria-haspopup="true">
+        <a href="#">
+          Jewellery
+          <span class="icon-fallback-text">
+            <span class="icon icon-arrow-down" aria-hidden="true"></span>
+          </span>
+        </a>
+        <ul class="site-nav--dropdown">
+          
+            <li><a href="/collections/jewellery-paua-abalone-bracelets-brooches-earrings">Bracelets/ Brooches/ Earrings</a></li>
+          
+            <li><a href="/collections/jewellery-paua-abalone-fine-chain-necklaces">Fine Chain Necklaces</a></li>
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+      <li class="site-nav--has-dropdown" aria-haspopup="true">
+        <a href="#">
+          Kitchenware
+          <span class="icon-fallback-text">
+            <span class="icon icon-arrow-down" aria-hidden="true"></span>
+          </span>
+        </a>
+        <ul class="site-nav--dropdown">
+          
+            <li><a href="/collections/kitchen-dinning-glasses-cups-mugs-bowls-salt-pepper-shakers">Cups/ Mugs/ Bowls/ Salt &amp; Pepper Shakers</a></li>
+          
+            <li><a href="/collections/kitchen-dinning-glasses-tea-towels-aprons-gloves-mitts">Tea Towels/ Aprons/ Gloves/ Mitts</a></li>
+          
+            <li><a href="/collections/kitchen-dinning-glasses-coasters-placemats-table-cloths">Coasters/ Placemats/ Table Cloths</a></li>
+          
+            <li><a href="/collections/kitchen-dinning-glasses-shot-glasses-shooters">Shot Glasses/ Shooters</a></li>
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+      <li class="site-nav--has-dropdown" aria-haspopup="true">
+        <a href="#">
+          Skin &amp; Health Care
+          <span class="icon-fallback-text">
+            <span class="icon icon-arrow-down" aria-hidden="true"></span>
+          </span>
+        </a>
+        <ul class="site-nav--dropdown">
+          
+            <li><a href="/collections/skin-care-health-products-soaps-gift-packs">Soaps/ Gift Packs</a></li>
+          
+            <li><a href="/collections/skin-care-health-products-creams-lotions">Creams/ Lotions</a></li>
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+      
+    
+  
+
+  
+    
+      
+      
+    
+  
+<li id="moreMenu" class="site-nav--has-dropdown"><a href="#">More<span class="icon icon-arrow-down" aria-hidden="true"></span></a><ul id="moreMenu--list" class="site-nav--dropdown"><li class="site-nav--has-dropdown" aria-haspopup="true">
+        <a href="/collections/official-all-blacks-products">
+          Official All Blacks Products
+          <span class="icon-fallback-text">
+            <span class="icon icon-arrow-down" aria-hidden="true"></span>
+          </span>
+        </a>
+        <ul class="site-nav--dropdown">
+          
+            <li><a href="/collections/official-all-blacks-all-blacks-infants">All Blacks Infants</a></li>
+          
+            <li><a href="/collections/official-all-blacks-all-blacks-children">All Blacks Children</a></li>
+          
+            <li><a href="/collections/official-all-blacks-all-blacks-souvenirs">All Blacks Souvenirs</a></li>
+          
+        </ul>
+      </li><li class="customer-navlink large--hide" style=""><a href="/account/login" id="customer_login_link">Sign in</a></li><li class="customer-navlink large--hide" style=""><a href="/account/register" id="customer_register_link">Create an Account</a></li></ul></li></ul>
+
+  </div>
+</nav>
+
+<div id="mobileNavBar">
+  <div class="display-table-cell">
+    <a class="menu-toggle mobileNavBar-link"><span class="icon icon-hamburger"></span>Menu</a>
+  </div>
+  <div class="display-table-cell">
+    <a href="/cart" class="cart-toggle mobileNavBar-link">
+      <span class="icon icon-cart"></span>
+      Cart <span class="cart-count hidden-count">0</span>
+    </a>
+  </div>
+</div>
+
+
+</div>
+
+  <main class="wrapper main-content" role="main">
+
+    
+
+<div id="shopify-section-product-template" class="shopify-section product-template-section"><div id="ProductSection" data-section-id="product-template" data-section-type="product-template" data-zoom-toggle="zoom-in" data-zoom-enabled="true" data-related-enabled="" data-social-sharing="" data-show-compare-at-price="false" data-stock="false" data-incoming-transfer="false">
+
+
+
+
+
+<nav class="breadcrumb" role="navigation" aria-label="breadcrumbs">
+  <a href="/" title="Back to the frontpage">Home</a>
+
+  
+
+    
+      <span class="divider" aria-hidden="true">›</span>
+      
+        
+        <a href="/collections/our-products" title="">Our New Zealand Products List</a>
+      
+    
+    <span class="divider" aria-hidden="true">›</span>
+    <span class="breadcrumb--truncate">Speights Beer Medal T-shirt - 1016311</span>
+
+  
+</nav>
+
+
+
+<div class="grid" itemscope="" itemtype="http://schema.org/Product">
+  <meta itemprop="url" content="https://www.newzealandsouvenirs.com/products/beer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220">
+  <meta itemprop="image" content="//www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_grande.png?v=1544219578">
+
+  <div class="grid-item large--two-fifths">
+    <div class="grid">
+      <div class="grid-item large--eleven-twelfths text-center">
+        <div class="product-photo-container" id="productPhotoContainer-product-template">
+          
+          
+            
+            
+
+            <div class="lazyload__image-wrapper no-js product__image-wrapper image-zoom" id="productPhotoWrapper-product-template-6956953698364" style="padding-top: 96.2963%; position: relative; overflow: hidden;" data-image-id="6956953698364"><img id="productPhotoImg-product-template-6956953698364" src="//www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_300x300.png?v=1544219578" class="no-js lazypreload lazyautosizes lazyloaded" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="1.0384615384615385" data-sizes="auto" alt="Speights Beer Medal T-shirt - 1016311" data-zoom="//www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_1024x1024@2x.png?v=1544219578" data-srcset="//www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_180x.png?v=1544219578 180w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_360x.png?v=1544219578 360w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_540x.png?v=1544219578 540w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_720x.png?v=1544219578 720w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_900x.png?v=1544219578 900w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_1080x.png?v=1544219578 1080w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_1296x.png?v=1544219578 1296w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_1512x.png?v=1544219578 1512w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_1728x.png?v=1544219578 1728w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_2048x.png?v=1544219578 2048w" sizes="348px" srcset="//www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_180x.png?v=1544219578 180w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_360x.png?v=1544219578 360w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_540x.png?v=1544219578 540w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_720x.png?v=1544219578 720w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_900x.png?v=1544219578 900w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_1080x.png?v=1544219578 1080w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_1296x.png?v=1544219578 1296w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_1512x.png?v=1544219578 1512w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_1728x.png?v=1544219578 1728w, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_2048x.png?v=1544219578 2048w">
+            <img src="//www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_1024x1024@2x.png?v=1544219578" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 270px; height: 260px; border: none; max-width: none; max-height: none;"></div>
+            
+              <noscript>
+                <img src="//www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_580x.png?v=1544219578"
+                  srcset="//www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_580x.png?v=1544219578 1x, //www.newzealandsouvenirs.com/cdn/shop/products/speights_medal_t_shirt_580x@2x.png?v=1544219578 2x"
+                  alt="Speights Beer Medal T-shirt - 1016311" style="opacity:1;">
+              </noscript>
+            
+          
+        </div>
+
+        
+
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-item large--three-fifths">
+
+    <h1 class="h2" itemprop="name">Speights Beer Medal T-shirt - 1016311</h1>
+
+    
+
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+
+      
+
+      <meta itemprop="priceCurrency" content="NZD">
+      <meta itemprop="price" content="43.0">
+
+      <ul class="inline-list product-meta">
+        <li>
+          <span id="productPrice-product-template" class="h1"> <span aria-hidden="true">$43<sup>00</sup></span> <span class="visually-hidden">$43.00</span></span>
+        </li>
+        
+        
+      </ul>
+
+      <hr id="variantBreak" class="hr--clear hr--small">
+
+      <link itemprop="availability" href="http://schema.org/InStock">
+
+      <form action="/cart/add" method="post" enctype="multipart/form-data" id="addToCartForm-product-template">
+        <div class="selector-wrapper"><label for="productSelect-product-template-option-0">Size</label><select class="single-option-selector" data-option="option1" id="productSelect-product-template-option-0"><option value="Medium">Medium</option><option value="Large">Large</option><option value="XLarge">XLarge</option></select></div><select name="id" id="productSelect-product-template" class="product-variants product-variants-product-template" style="display: none;">
+          
+            
+
+              <option selected="selected" data-sku="1016311" value="32655396470844">Medium - $43.00 NZD</option>
+
+            
+          
+            
+
+              <option data-sku="1016311" value="45010615630">Large - $43.00 NZD</option>
+
+            
+          
+            
+
+              <option data-sku="1016311" value="32655396536380">XLarge - $43.00 NZD</option>
+
+            
+          
+        </select>
+
+        
+
+        <button type="submit" name="add" id="addToCart-product-template" class="btn">
+          <span class="icon icon-cart"></span>
+          <span id="addToCartText-product-template">Add to Cart</span>
+        </button>
+
+        
+
+        
+
+      </form>
+
+      <hr>
+
+    </div>
+
+    <div class="product-description rte" itemprop="description">
+      <!-- [if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.newzealandsouvenirs.com/skin/frontend/NZ-Souveniers/default/css/iestyles.css" media="all">
+<![endif]--><!-- [if lt IE 7]>
+<script type="text/javascript" src="http://www.newzealandsouvenirs.com/js/index.php?c=auto&amp;f=,lib/ds-sleight.js,varien/iehover-fix.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.newzealandsouvenirs.com/skin/frontend/NZ-Souveniers/default/css/ie7minus.css" media="all">
+<![endif]-->
+<div class="wrapper">
+<div class="mainPageWrapper">
+<div id="mainColumnWrapper">
+<div class="product-info-box">
+<div class="product-essential">
+<form id="product_addtocart_form" method="post" action="http://www.newzealandsouvenirs.com/index.php/checkout/cart/add/uenc/aHR0cDovL3d3dy5uZXd6ZWFsYW5kc291dmVuaXJzLmNvbS9pbmRleC5waHAvbmV3LXplYWxhbmQtYmVlci1nZWFyL25ldy16ZWFsYW5kLWJlZXItY2xvdGhpbmcvc3BlaWdodHMtYmVlci1tZWRhbC10LXNoaXJ0LXRyc3A2MDIyMC5odG1s/product/3637/">
+<div class="product-shop">
+<div class="product-collateral">
+<div class="collateral-box">
+<div class="product-specs">Navy cotton t-shirt with printed Speights logo on front</div>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+    </div>
+
+    
+      
+
+
+
+<div class="social-sharing is-normal" data-permalink="https://www.newzealandsouvenirs.com/products/beer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220">
+
+  
+    <a target="_blank" href="//www.facebook.com/sharer.php?u=https://www.newzealandsouvenirs.com/products/beer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220" class="share-facebook" title="Share on Facebook">
+      <span class="icon icon-facebook" aria-hidden="true"></span>
+      <span class="share-title" aria-hidden="true">Share</span>
+      <span class="visually-hidden">Share on Facebook</span>
+    </a>
+  
+
+  
+
+  
+
+    
+
+  
+
+</div>
+
+    
+
+  </div>
+</div>
+
+
+
+
+
+
+  <script type="application/json" id="ProductJson-product-template">
+    {"id":11344578958,"title":"Speights Beer Medal T-shirt - 1016311","handle":"beer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220","description":"\u003c!-- [if lt IE 8]\u003e\n\u003clink rel=\"stylesheet\" type=\"text\/css\" href=\"http:\/\/www.newzealandsouvenirs.com\/skin\/frontend\/NZ-Souveniers\/default\/css\/iestyles.css\" media=\"all\"\u003e\n\u003c![endif]--\u003e\u003c!-- [if lt IE 7]\u003e\n\u003cscript type=\"text\/javascript\" src=\"http:\/\/www.newzealandsouvenirs.com\/js\/index.php?c=auto\u0026amp;f=,lib\/ds-sleight.js,varien\/iehover-fix.js\"\u003e\u003c\/script\u003e\n\u003clink rel=\"stylesheet\" type=\"text\/css\" href=\"http:\/\/www.newzealandsouvenirs.com\/skin\/frontend\/NZ-Souveniers\/default\/css\/ie7minus.css\" media=\"all\"\u003e\n\u003c![endif]--\u003e\n\u003cdiv class=\"wrapper\"\u003e\n\u003cdiv class=\"mainPageWrapper\"\u003e\n\u003cdiv id=\"mainColumnWrapper\"\u003e\n\u003cdiv class=\"product-info-box\"\u003e\n\u003cdiv class=\"product-essential\"\u003e\n\u003cform id=\"product_addtocart_form\" method=\"post\" action=\"http:\/\/www.newzealandsouvenirs.com\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL3d3dy5uZXd6ZWFsYW5kc291dmVuaXJzLmNvbS9pbmRleC5waHAvbmV3LXplYWxhbmQtYmVlci1nZWFyL25ldy16ZWFsYW5kLWJlZXItY2xvdGhpbmcvc3BlaWdodHMtYmVlci1tZWRhbC10LXNoaXJ0LXRyc3A2MDIyMC5odG1s\/product\/3637\/\"\u003e\n\u003cdiv class=\"product-shop\"\u003e\n\u003cdiv class=\"product-collateral\"\u003e\n\u003cdiv class=\"collateral-box\"\u003e\n\u003cdiv class=\"product-specs\"\u003eNavy cotton t-shirt with printed Speights logo on front\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/form\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e","published_at":"2017-09-02T15:24:44+12:00","created_at":"2017-09-02T15:31:16+12:00","vendor":"Beer Clothing","type":"Beer Gear","tags":[],"price":4300,"price_min":4300,"price_max":4300,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":32655396470844,"title":"Medium","option1":"Medium","option2":null,"option3":null,"sku":"1016311","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Speights Beer Medal T-shirt - 1016311 - Medium","public_title":"Medium","options":["Medium"],"price":4300,"weight":350,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"deny","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":45010615630,"title":"Large","option1":"Large","option2":null,"option3":null,"sku":"1016311","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Speights Beer Medal T-shirt - 1016311 - Large","public_title":"Large","options":["Large"],"price":4300,"weight":350,"compare_at_price":null,"inventory_quantity":-6,"inventory_management":null,"inventory_policy":"deny","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":32655396536380,"title":"XLarge","option1":"XLarge","option2":null,"option3":null,"sku":"1016311","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Speights Beer Medal T-shirt - 1016311 - XLarge","public_title":"XLarge","options":["XLarge"],"price":4300,"weight":350,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"deny","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/www.newzealandsouvenirs.com\/cdn\/shop\/products\/speights_medal_t_shirt.png?v=1544219578"],"featured_image":"\/\/www.newzealandsouvenirs.com\/cdn\/shop\/products\/speights_medal_t_shirt.png?v=1544219578","options":["Size"],"media":[{"alt":null,"id":1343294439484,"position":1,"preview_image":{"aspect_ratio":1.038,"height":260,"width":270,"src":"\/\/www.newzealandsouvenirs.com\/cdn\/shop\/products\/speights_medal_t_shirt.png?v=1544219578"},"aspect_ratio":1.038,"height":260,"media_type":"image","src":"\/\/www.newzealandsouvenirs.com\/cdn\/shop\/products\/speights_medal_t_shirt.png?v=1544219578","width":270}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003c!-- [if lt IE 8]\u003e\n\u003clink rel=\"stylesheet\" type=\"text\/css\" href=\"http:\/\/www.newzealandsouvenirs.com\/skin\/frontend\/NZ-Souveniers\/default\/css\/iestyles.css\" media=\"all\"\u003e\n\u003c![endif]--\u003e\u003c!-- [if lt IE 7]\u003e\n\u003cscript type=\"text\/javascript\" src=\"http:\/\/www.newzealandsouvenirs.com\/js\/index.php?c=auto\u0026amp;f=,lib\/ds-sleight.js,varien\/iehover-fix.js\"\u003e\u003c\/script\u003e\n\u003clink rel=\"stylesheet\" type=\"text\/css\" href=\"http:\/\/www.newzealandsouvenirs.com\/skin\/frontend\/NZ-Souveniers\/default\/css\/ie7minus.css\" media=\"all\"\u003e\n\u003c![endif]--\u003e\n\u003cdiv class=\"wrapper\"\u003e\n\u003cdiv class=\"mainPageWrapper\"\u003e\n\u003cdiv id=\"mainColumnWrapper\"\u003e\n\u003cdiv class=\"product-info-box\"\u003e\n\u003cdiv class=\"product-essential\"\u003e\n\u003cform id=\"product_addtocart_form\" method=\"post\" action=\"http:\/\/www.newzealandsouvenirs.com\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL3d3dy5uZXd6ZWFsYW5kc291dmVuaXJzLmNvbS9pbmRleC5waHAvbmV3LXplYWxhbmQtYmVlci1nZWFyL25ldy16ZWFsYW5kLWJlZXItY2xvdGhpbmcvc3BlaWdodHMtYmVlci1tZWRhbC10LXNoaXJ0LXRyc3A2MDIyMC5odG1s\/product\/3637\/\"\u003e\n\u003cdiv class=\"product-shop\"\u003e\n\u003cdiv class=\"product-collateral\"\u003e\n\u003cdiv class=\"collateral-box\"\u003e\n\u003cdiv class=\"product-specs\"\u003eNavy cotton t-shirt with printed Speights logo on front\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/form\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e"}
+  </script>
+  
+
+</div>
+
+
+</div>
+
+  </main>
+
+  <div id="shopify-section-footer" class="shopify-section footer-section">
+
+<footer class="site-footer small--text-center" role="contentinfo">
+  <div class="wrapper">
+
+    <div class="grid">
+
+    
+
+      
+
+
+    <div class="grid-item small--one-whole two-twelfths">
+      
+        <h3>Quick links</h3>
+      
+
+      
+        <ul>
+          
+            <li><a href="/search">Search</a></li>
+          
+            <li><a href="/">Home</a></li>
+          
+            <li><a href="/pages/about-us">About Us</a></li>
+          
+            <li><a href="/pages/contact-us">Contact Us</a></li>
+          
+            <li><a href="/pages/how-to-order">How To Order</a></li>
+          
+            <li><a href="/pages/terms-of-trade">Terms Of Trade</a></li>
+          
+            <li><a href="/pages/t-shirt-polo-shirt-sweat-shirt-sizing-chart">T Shirt &amp; Shorts Sizes Guide</a></li>
+          
+        </ul>
+
+        
+      </div>
+    
+
+      
+
+
+    <div class="grid-item small--one-whole one-quarter">
+      
+        <h3>Product Collections</h3>
+      
+
+      
+        <ul>
+          
+            <li><a href="/collections/t-shirts-polo-shirts">T-Shirts</a></li>
+          
+            <li><a href="/collections/kiwi-gifts-1">Kiwi Gifts</a></li>
+          
+            <li><a href="/collections/clothing">Clothing</a></li>
+          
+            <li><a href="/collections/beer-gear">Beer Gear</a></li>
+          
+            <li><a href="/collections/jewellery-paua-abalone">Jewellery Paua Abalone</a></li>
+          
+            <li><a href="/collections/kitchen-dinning-glasses">Kitchen/ Dinning/ Glasses</a></li>
+          
+            <li><a href="/collections/skin-care-health-products">Skin Care/ Health Products</a></li>
+          
+            <li><a href="/collections/official-all-blacks-products">Official All Blacks</a></li>
+          
+        </ul>
+
+        
+      </div>
+    
+
+      
+
+
+    <div class="grid-item small--one-whole one-half">
+      
+        <h3>New Zealand Souvenirs &amp; Gifts</h3>
+      
+
+      
+
+            
+              <p>We are website only and 100% New Zealand owned and operated.</p><p></p><p>All prices are in New Zealand dollars.</p>
+            
+
+
+        
+      </div>
+    
+
+  </div>
+
+  
+  <hr class="hr--small">
+  
+
+    <div class="grid">
+    
+      
+      <div class="grid-item one-whole text-center">
+          <ul class="inline-list social-icons">
+             
+             
+               <li>
+                 <a class="icon-fallback-text" href="https://www.facebook.com/newzealandgiftsandsouvenirs/" title="New Zealand Souvenirs &amp;amp; Gifts on Facebook">
+                   <span class="icon icon-facebook" aria-hidden="true"></span>
+                   <span class="fallback-text">Facebook</span>
+                 </a>
+               </li>
+             
+             
+             
+             
+               <li>
+                 <a class="icon-fallback-text" href="https://www.instagram.com/newzealandsouvenirsgifts/" title="New Zealand Souvenirs &amp;amp; Gifts on Instagram">
+                   <span class="icon icon-instagram" aria-hidden="true"></span>
+                   <span class="fallback-text">Instagram</span>
+                 </a>
+               </li>
+             
+             
+             
+             
+             
+             
+           </ul>
+        </div>
+      
+      </div>
+      <hr class="hr--small">
+      <div class="grid">
+      <div class="grid-item large--two-fifths">
+          <ul class="legal-links inline-list">
+              <li>
+                © 2024 <a href="/" title="">New Zealand Souvenirs &amp; Gifts</a>
+              </li>
+          </ul>
+      </div>
+
+      
+        <div class="grid-item large--three-fifths large--text-right">
+          
+          <ul class="inline-list payment-icons">
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-american_express" aria-hidden="true"></span>
+                    <span class="fallback-text">american express</span>
+                  </span>
+                </li>
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-apple_pay" aria-hidden="true"></span>
+                    <span class="fallback-text">apple pay</span>
+                  </span>
+                </li>
+              
+            
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-master" aria-hidden="true"></span>
+                    <span class="fallback-text">master</span>
+                  </span>
+                </li>
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-paypal" aria-hidden="true"></span>
+                    <span class="fallback-text">paypal</span>
+                  </span>
+                </li>
+              
+            
+              
+            
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-visa" aria-hidden="true"></span>
+                    <span class="fallback-text">visa</span>
+                  </span>
+                </li>
+              
+            
+          </ul>
+        </div>
+      
+
+    </div>
+
+  </div>
+
+</footer>
+
+
+</div>
+
+  <script>
+
+  var moneyFormat = '${{amount}}';
+
+  var theme = {
+    strings:{
+      product:{
+        unavailable: "Unavailable",
+        will_be_in_stock_after:"Will be in stock after [date]",
+        only_left:"Only 1 left!"
+      },
+      navigation:{
+        more_link: "More"
+      },
+      map:{
+        addressError: "Error looking up that address",
+        addressNoResults: "No results for that address",
+        addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+        authError: "There was a problem authenticating your Google Maps API Key."
+      }
+    }
+  }
+  </script>
+
+
+
+  
+  <script id="cartTemplate" type="text/template">
+  
+    <form action="/cart" method="post" class="cart-form" novalidate>
+      <div class="ajaxifyCart--products">
+        {{#items}}
+        <div class="ajaxifyCart--product">
+          <div class="ajaxifyCart--row" data-line="{{line}}">
+            <div class="grid">
+              <div class="grid-item large--two-thirds">
+                <div class="grid">
+                  <div class="grid-item one-quarter">
+                    <a href="{{url}}" class="ajaxCart--product-image"><img src="{{img}}" alt=""></a>
+                  </div>
+                  <div class="grid-item three-quarters">
+                    <a href="{{url}}" class="h4">{{name}}</a>
+                    <p>{{variation}}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="grid-item large--one-third">
+                <div class="grid">
+                  <div class="grid-item one-third">
+                    <div class="ajaxifyCart--qty">
+                      <input type="text" name="updates[]" class="ajaxifyCart--num" value="{{itemQty}}" min="0" data-line="{{line}}" aria-label="quantity" pattern="[0-9]*">
+                      <span class="ajaxifyCart--qty-adjuster ajaxifyCart--add" data-line="{{line}}" data-qty="{{itemAdd}}">+</span>
+                      <span class="ajaxifyCart--qty-adjuster ajaxifyCart--minus" data-line="{{line}}" data-qty="{{itemMinus}}">-</span>
+                    </div>
+                  </div>
+                  <div class="grid-item one-third text-center">
+                    <p>{{price}}</p>
+                  </div>
+                  <div class="grid-item one-third text-right">
+                    <p>
+                      <small><a href="/cart/change?line={{line}}&amp;quantity=0" class="ajaxifyCart--remove" data-line="{{line}}">Remove</a></small>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {{/items}}
+      </div>
+      <div class="ajaxifyCart--row text-right medium-down--text-center">
+        <span class="h3">Subtotal {{totalPrice}}</span>
+        <input type="submit" class="{{btnClass}}" name="checkout" value="Checkout">
+      </div>
+    </form>
+  
+  </script>
+  <script id="drawerTemplate" type="text/template">
+  
+    <div id="ajaxifyDrawer" class="ajaxify-drawer">
+      <div id="ajaxifyCart" class="ajaxifyCart--content {{wrapperClass}}"></div>
+    </div>
+    <div class="ajaxifyDrawer-caret"><span></span></div>
+  
+  </script>
+  <script id="modalTemplate" type="text/template">
+  
+    <div id="ajaxifyModal" class="ajaxify-modal">
+      <div id="ajaxifyCart" class="ajaxifyCart--content"></div>
+    </div>
+  
+  </script>
+  <script id="ajaxifyQty" type="text/template">
+  
+    <div class="ajaxifyCart--qty">
+      <input type="text" class="ajaxifyCart--num" value="{{itemQty}}" data-id="{{key}}" min="0" data-line="{{line}}" aria-label="quantity" pattern="[0-9]*">
+      <span class="ajaxifyCart--qty-adjuster ajaxifyCart--add" data-id="{{key}}" data-line="{{line}}" data-qty="{{itemAdd}}">+</span>
+      <span class="ajaxifyCart--qty-adjuster ajaxifyCart--minus" data-id="{{key}}" data-line="{{line}}" data-qty="{{itemMinus}}">-</span>
+    </div>
+  
+  </script>
+  <script id="jsQty" type="text/template">
+  
+    <div class="js-qty">
+      <input type="text" class="js--num" value="{{itemQty}}" min="1" data-id="{{key}}" aria-label="quantity" pattern="[0-9]*" name="{{inputName}}" id="{{inputId}}">
+      <span class="js--qty-adjuster js--add" data-id="{{key}}" data-qty="{{itemAdd}}">+</span>
+      <span class="js--qty-adjuster js--minus" data-id="{{key}}" data-qty="{{itemMinus}}">-</span>
+    </div>
+  
+  </script>
+
+
+
+
+
+
+
+  
+    <div id="ajaxifyModal" class="ajaxify-modal"><button class="ajaxifyCart--close" title="Close Cart">Close Cart</button>
+      <div id="ajaxifyCart" class="ajaxifyCart--content"></div>
+    </div>
+  
+  <div id="ajaxifyCart-overlay"></div><div tabindex="-1" aria-hidden="true" id="web-pixels-manager-sandbox-container" data-shopify-privacy="exclude" style="height: 0px !important; width: 0px !important; position: fixed !important; visibility: hidden !important; overflow: hidden !important; z-index: -100 !important; margin: 0px !important; padding: 0px !important; border: 0px !important;"><iframe tabindex="-1" aria-hidden="true" name="web-pixel-sandbox-CUSTOM-shopify-custom-pixel-LAX-8688a91bwbd065f36p51297ecfmc385dee2" src="https://www.newzealandsouvenirs.com/wpm@8688a91bwbd065f36p51297ecfmc385dee2/custom/web-pixel-shopify-custom-pixel@0220/sandbox/modern/collections/our-products/products/beer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220" id="web-pixel-sandbox-CUSTOM-shopify-custom-pixel-LAX-8688a91bwbd065f36p51297ecfmc385dee2" sandbox="allow-scripts allow-forms" style="height: 0px !important; width: 0px !important; visibility: hidden !important;"></iframe></div><iframe allow="join-ad-interest-group" data-tagging-id="AW-1072713470/hh0bCOqloYsBEP6dwf8D" data-load-time="1729361760972" height="0" width="0" src="https://td.doubleclick.net/td/rul/1072713470?random=1729361760968&amp;cv=11&amp;fst=1729361760968&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be4ah0za200zb9137938344&amp;gcs=G111&amp;gcd=13t3t3t3t5l1&amp;dma=0&amp;tag_exp=101533421~101686685~101836706&amp;u_w=1280&amp;u_h=720&amp;url=https%3A%2F%2Fwww.newzealandsouvenirs.com%2Fcollections%2Four-products%2Fproducts%2Fbeer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220&amp;label=hh0bCOqloYsBEP6dwf8D&amp;tiba=Speights%20Beer%20Medal%20T-shirt%20-%201016311%20%E2%80%93%20New%20Zealand%20Souvenirs%20%26%20Gifts&amp;hn=www.googleadservices.com&amp;frm=0&amp;did=dNzYwYj&amp;gdid=dNzYwYj&amp;gtm_ee=1&amp;rdp=0&amp;npa=0&amp;pscdl=noapi&amp;auid=1954232514.1729361761&amp;uaa=arm&amp;uab=64&amp;uafvl=HeadlessChrome%3B129.0.6668.29%7CNot%253DA%253FBrand%3B8.0.0.0%7CChromium%3B129.0.6668.29&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=14.7.0&amp;uaw=0&amp;fledge=1&amp;capi=1&amp;data=event%3Dpage_view%3Bpage_path%3D%2Fcollections%2Four-products%2Fproducts%2Fbeer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220&amp;ct_cookie_present=0" style="display: none; visibility: hidden;"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-1072713470/HopuCPCloYsBEP6dwf8D" data-load-time="1729361760974" height="0" width="0" src="https://td.doubleclick.net/td/rul/1072713470?random=1729361760973&amp;cv=11&amp;fst=1729361760973&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be4ah0za200zb9137938344&amp;gcs=G111&amp;gcd=13t3t3t3t5l1&amp;dma=0&amp;tag_exp=101533421~101686685~101836706&amp;u_w=1280&amp;u_h=720&amp;url=https%3A%2F%2Fwww.newzealandsouvenirs.com%2Fcollections%2Four-products%2Fproducts%2Fbeer-gear-beer-clothing-speights-beer-medal-t-shirt-trsp60220&amp;label=HopuCPCloYsBEP6dwf8D&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Speights%20Beer%20Medal%20T-shirt%20-%201016311%20%E2%80%93%20New%20Zealand%20Souvenirs%20%26%20Gifts&amp;did=dNzYwYj&amp;gdid=dNzYwYj&amp;gtm_ee=1&amp;rdp=0&amp;npa=0&amp;pscdl=noapi&amp;auid=1954232514.1729361761&amp;uaa=arm&amp;uab=64&amp;uafvl=HeadlessChrome%3B129.0.6668.29%7CNot%253DA%253FBrand%3B8.0.0.0%7CChromium%3B129.0.6668.29&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=14.7.0&amp;uaw=0&amp;fledge=1&amp;capi=1&amp;data=event%3Dview_item%3Becomm_prodid%3Dshopify_NZ_11344578958_32655396470844%3Becomm_totalvalue%3D43%3Becomm_pagetype%3Dproduct&amp;ct_cookie_present=0" style="display: none; visibility: hidden;"></iframe><script src="https://www.googletagmanager.com/gtag/js?id=AW-1072713470"></script></body></html>
