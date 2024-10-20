@@ -49,13 +49,31 @@ Ensure all dependencies are installed by following the installation instructions
     git clone <repository_url>
     cd <repository_directory>
     ```
-
-2. Install the required libraries:
+2. Now create a separate new virtual environment(if required) and activate 
+    ```bash
+    python3 -m venv dabu_ai_env
+    ```
+    to activate the environment:
+    ```bash
+    source dabu_ai_env/bin/activate
+    ```
+    
+3. Install the required libraries:
 
     ```bash
     pip install -r requirements.txt
     ```
-
+4. To Install required browsers from Playwright
+    ```bash
+    playwright install
+    ```
+5. Deactivate and then reactivate the environment before proceeding
+    ```bash
+    deactivate
+    ```
+    ```bash
+    source dabu_ai_env/bin/activate
+    ```
 
 
 ## Folder Structure
@@ -99,28 +117,28 @@ The core libraries used in this project are:
 
    The function `save_page_html(url, output_file)` takes a URL and a desired output file name and saves the entire HTML of the page to the output file. It handles JavaScript-rendered content by scrolling and waiting for content to load. It returns the output_file path for convenience to be further processed by ai agent. It has optional `retries` argument set to 3 for 3 retries for each link.
 
-   Example usage:
+   Function Arguments
    
    ```python
-   asyncio.run(save_page_html("https://example.com", "output.html",4))#using 4 retries
+   save_page_html("https://example.com", "output.html",4)#using max 4 retries
 2. **Parse the HTML using AI:**
     After the HTML is saved, the `parse_using_ai()` function can be used to analyze and extract structured data from the saved HTML.
 
-    Example usage:
+    Function Arguments:
    
    ```python
-   asyncio.run(parse_using_ai("https://example.com", "output.html")) #second argument can be retrieved from return of save_page_html
+   parse_using_ai("https://example.com", "output.html") #second argument can be retrieved from return of save_page_html
  - **For using both at once from terminal**
     ```python
     python html_saver.py #Then Follow the Prompts
 ### Song Downloader(yt_downloader)
 1. **Download a song by title and artist:**
-    The `download_song(song_title, artist, output_file)` function downloads a song based on the provided title and artist.
+    The `download_song(song_title, artist, output_file)` function downloads a song based on the provided title and artist. Option to Use `geo_location` argument to bypass geo_location restriction if observed
 
-    Example usage:
+   Function Arguments
    
    ```python
-   asyncio.run(download_song("Song Title", "Artist", "output_file"))
+   download_song("Song Title", "Artist", "output_file",geo_location=None,max_retries=4,retry_delay=5) #max_retries default 3, retry_delay deafault 5 seconds
 - **For Running the file using Terminal**
     ```python
     python yt_downloader.py # Then Follow the prompts

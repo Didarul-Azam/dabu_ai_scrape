@@ -156,3 +156,368 @@
 2024-10-20 00:16:56,024 - INFO - HTML AI Parse for https://www.mykitsch.com/products/satin-heatless-curling-set-sunset-tie-dye saved to /Users/niloy/dabu_test/dabu_final_scrape/html_parse/ai_parsed_info.txt
 2024-10-20 00:17:03,037 - INFO - HTML AI Parse for https://www.amazon.com/Beats-Studio-Pro-Personalized-Compatibility/dp/B0C8PT7DF5/ saved to /Users/niloy/dabu_test/dabu_final_scrape/html_parse/ai_parsed_info.txt
 2024-10-20 00:17:08,518 - INFO - HTML AI Parse for https://www.amazon.com/dp/B09JL41N9C/ saved to /Users/niloy/dabu_test/dabu_final_scrape/html_parse/ai_parsed_info.txt
+2024-10-20 13:56:39,776 - INFO - Fetched headers successfully on 2024-10-20T13:56:39.776527
+2024-10-20 13:56:39,779 - INFO - saved headers to file on 2024-10-20T13:56:39.779745
+2024-10-20 13:56:39,780 - INFO - Starting download for: Tunnel of Love by Dire Strait
+2024-10-20 13:56:39,782 - INFO - Starting download for: Lonesome Town by Riky Nelson
+2024-10-20 13:56:39,784 - INFO - Starting download for: As You Fade Away by Neffex
+2024-10-20 13:56:39,785 - INFO - Starting download for: Runaway by Aurora
+2024-10-20 13:56:39,786 - INFO - Starting download for: Closer by Chainsmoke
+2024-10-20 13:56:39,787 - INFO - Starting download for: 11 am by Incubus
+2024-10-20 13:56:39,788 - INFO - Starting download for: High Hopes by Pink Floyd
+2024-10-20 13:56:39,864 - INFO - Starting download for: Unforgiven 2 by Metallica
+2024-10-20 13:56:40,049 - INFO - Starting download for: Sultan of Swing by Dire Straits
+2024-10-20 13:56:40,192 - INFO - Starting download for: Perfect by Ed Sheeran
+2024-10-20 13:56:40,232 - INFO - Starting download for: Skin by Rag_n Bone Man
+2024-10-20 13:57:30,578 - ERROR - Error downloading song: ERROR: [download] Got error: 1245184 bytes read, 522350 more expected
+2024-10-20 13:58:42,880 - INFO - Starting download for: Tunnel of Love by Dire Strait
+2024-10-20 13:58:42,905 - INFO - Starting download for: Lonesome Town by Riky Nelson
+2024-10-20 13:58:42,963 - INFO - Starting download for: As You Fade Away by Neffex
+2024-10-20 13:58:42,995 - INFO - Starting download for: Runaway by Aurora
+2024-10-20 13:58:43,015 - INFO - Starting download for: Closer by Chainsmoke
+2024-10-20 13:58:43,065 - INFO - Starting download for: 11 am by Incubus
+2024-10-20 13:58:43,119 - INFO - Starting download for: High Hopes by Pink Floyd
+2024-10-20 13:58:43,161 - INFO - Starting download for: Unforgiven 2 by Metallica
+2024-10-20 13:58:43,176 - INFO - Starting download for: Sultan of Swing by Dire Straits
+2024-10-20 13:58:43,246 - INFO - Starting download for: Perfect by Ed Sheeran
+2024-10-20 13:58:43,269 - INFO - Starting download for: Skin by Rag_n Bone Man
+2024-10-20 13:59:44,762 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:44,762 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:44,799 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:44,884 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:44,897 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:44,947 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:44,986 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,038 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,078 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,121 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,149 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,205 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,233 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,249 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,250 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,251 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,253 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,254 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,254 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,255 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,255 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,255 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,255 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,257 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,259 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,260 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,261 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,261 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,261 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,262 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,262 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,263 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,263 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,263 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,264 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,264 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,265 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,265 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,265 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,266 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,266 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,267 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,267 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,268 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,268 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,269 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,269 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,269 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,269 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 13:59:45,270 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:01:04,128 - ERROR - Error downloading song: ERROR: [download] Got error: 3096560 bytes read, 96654 more expected
+2024-10-20 14:04:37,729 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:37,761 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:37,815 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:37,853 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:37,907 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:37,955 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:37,974 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,011 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,061 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,107 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,159 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,206 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,249 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,250 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,250 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,252 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,252 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,253 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,254 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,255 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,255 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,255 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,256 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,256 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,257 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,257 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,257 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,257 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,257 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,258 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,258 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,258 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,258 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,259 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,259 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,259 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,260 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,261 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,261 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,262 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,262 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,263 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,263 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,264 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,264 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,265 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,266 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,266 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,267 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:04:38,267 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:05:20,854 - ERROR - Error downloading song: ERROR: [download] Got error: 2818032 bytes read, 375182 more expected
+2024-10-20 14:06:48,947 - INFO - Created output directory: downloaded_song/Bilioneras_in_parallel
+2024-10-20 14:06:48,947 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:48,990 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,018 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,087 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,113 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,204 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,226 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,289 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,350 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,465 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,519 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,571 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,608 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,669 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,670 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,671 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,672 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,672 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,677 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,682 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,689 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,693 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,696 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,697 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,735 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,736 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,736 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,737 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,737 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,737 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,738 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,739 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,739 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,739 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,739 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,740 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,740 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,740 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,740 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,741 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,742 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,742 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,742 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,742 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,742 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,743 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,743 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,743 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,744 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:06:49,744 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:07:50,537 - ERROR - Error downloading song: ERROR: [download] Got error: 3162096 bytes read, 31118 more expected
+2024-10-20 14:08:03,524 - ERROR - Error downloading song: ERROR: [download] Got error: 3145712 bytes read, 47502 more expected
+2024-10-20 14:08:08,801 - ERROR - Error downloading song: ERROR: [download] Got error: 3014640 bytes read, 178574 more expected
+2024-10-20 14:34:30,628 - INFO - Starting download for: Tunnel of Love by Dire Strait
+2024-10-20 14:34:30,629 - INFO - Starting download for: Lonesome Town by Riky Nelson
+2024-10-20 14:34:30,630 - INFO - Starting download for: As You Fade Away by Neffex
+2024-10-20 14:34:30,631 - INFO - Starting download for: Runaway by Aurora
+2024-10-20 14:34:30,632 - INFO - Starting download for: Closer by Chainsmoke
+2024-10-20 14:34:30,724 - INFO - Starting download for: 11 am by Incubus
+2024-10-20 14:34:30,805 - INFO - Starting download for: High Hopes by Pink Floyd
+2024-10-20 14:34:30,948 - INFO - Starting download for: Unforgiven 2 by Metallica
+2024-10-20 14:34:30,968 - INFO - Starting download for: Sultan of Swing by Dire Straits
+2024-10-20 14:34:31,008 - INFO - Starting download for: Perfect by Ed Sheeran
+2024-10-20 14:34:31,052 - INFO - Starting download for: Skin by Rag_n Bone Man
+2024-10-20 14:34:32,281 - INFO - Download successful on attempt 1
+2024-10-20 14:34:32,555 - INFO - Download successful on attempt 1
+2024-10-20 14:34:36,383 - INFO - Download successful on attempt 1
+2024-10-20 14:34:38,818 - INFO - Download successful on attempt 1
+2024-10-20 14:34:39,625 - INFO - Download successful on attempt 1
+2024-10-20 14:34:41,216 - INFO - Download successful on attempt 1
+2024-10-20 14:34:41,675 - INFO - Download successful on attempt 1
+2024-10-20 14:34:41,710 - INFO - Download successful on attempt 1
+2024-10-20 14:34:42,216 - INFO - Download successful on attempt 1
+2024-10-20 14:34:43,448 - INFO - Download successful on attempt 1
+2024-10-20 14:34:45,288 - INFO - Download successful on attempt 1
+2024-10-20 14:35:16,431 - INFO - Created output directory: downloaded_song/Bilioneras_in_parallel
+2024-10-20 14:35:16,431 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,451 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,516 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,558 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,597 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,606 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,683 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,724 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,750 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,834 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,859 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,904 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,928 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,943 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,965 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,966 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,970 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,970 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,970 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,971 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,972 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,972 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,972 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,972 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,973 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,973 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,973 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,974 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,974 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,975 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,975 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,976 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,977 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,978 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,978 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,978 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,979 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,979 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,980 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,980 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,981 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,981 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,981 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,982 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,982 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,983 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,983 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,983 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,983 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:16,984 - INFO - Starting download for: Bilionera by Otilia
+2024-10-20 14:35:18,029 - INFO - Download successful on attempt 1
+2024-10-20 14:35:18,098 - INFO - Download successful on attempt 1
+2024-10-20 14:35:18,120 - INFO - Download successful on attempt 1
+2024-10-20 14:35:24,621 - INFO - Download successful on attempt 1
+2024-10-20 14:35:26,087 - INFO - Download successful on attempt 1
+2024-10-20 14:35:27,040 - INFO - Download successful on attempt 1
+2024-10-20 14:35:27,845 - INFO - Download successful on attempt 1
+2024-10-20 14:35:28,114 - INFO - Download successful on attempt 1
+2024-10-20 14:35:28,429 - INFO - Download successful on attempt 1
+2024-10-20 14:35:28,730 - INFO - Download successful on attempt 1
+2024-10-20 14:35:28,896 - INFO - Download successful on attempt 1
+2024-10-20 14:35:29,006 - INFO - Download successful on attempt 1
+2024-10-20 14:35:29,006 - INFO - Download successful on attempt 1
+2024-10-20 14:35:29,165 - INFO - Download successful on attempt 1
+2024-10-20 14:35:29,208 - INFO - Download successful on attempt 1
+2024-10-20 14:35:29,238 - INFO - Download successful on attempt 1
+2024-10-20 14:35:30,305 - INFO - Download successful on attempt 1
+2024-10-20 14:35:30,577 - INFO - Download successful on attempt 1
+2024-10-20 14:35:34,054 - INFO - Download successful on attempt 1
+2024-10-20 14:35:34,524 - INFO - Download successful on attempt 1
+2024-10-20 14:35:34,811 - INFO - Download successful on attempt 1
+2024-10-20 14:35:35,898 - INFO - Download successful on attempt 1
+2024-10-20 14:35:36,011 - INFO - Download successful on attempt 1
+2024-10-20 14:35:36,820 - INFO - Download successful on attempt 1
+2024-10-20 14:35:38,185 - INFO - Download successful on attempt 1
+2024-10-20 14:35:39,119 - INFO - Download successful on attempt 1
+2024-10-20 14:35:39,207 - INFO - Download successful on attempt 1
+2024-10-20 14:35:39,381 - INFO - Download successful on attempt 1
+2024-10-20 14:35:39,424 - INFO - Download successful on attempt 1
+2024-10-20 14:35:39,436 - INFO - Download successful on attempt 1
+2024-10-20 14:35:39,456 - INFO - Download successful on attempt 1
+2024-10-20 14:35:40,698 - INFO - Download successful on attempt 1
+2024-10-20 14:35:40,808 - INFO - Download successful on attempt 1
+2024-10-20 14:35:40,916 - INFO - Download successful on attempt 1
+2024-10-20 14:35:41,910 - INFO - Download successful on attempt 1
+2024-10-20 14:35:41,999 - INFO - Download successful on attempt 1
+2024-10-20 14:35:42,041 - INFO - Download successful on attempt 1
+2024-10-20 14:35:42,616 - INFO - Download successful on attempt 1
+2024-10-20 14:35:43,339 - INFO - Download successful on attempt 1
+2024-10-20 14:35:43,983 - INFO - Download successful on attempt 1
+2024-10-20 14:35:45,463 - INFO - Download successful on attempt 1
+2024-10-20 14:35:46,134 - INFO - Download successful on attempt 1
+2024-10-20 14:35:46,530 - INFO - Download successful on attempt 1
+2024-10-20 14:35:47,736 - INFO - Download successful on attempt 1
+2024-10-20 14:35:47,748 - INFO - Download successful on attempt 1
+2024-10-20 14:35:47,768 - INFO - Download successful on attempt 1
+2024-10-20 14:35:47,784 - INFO - Download successful on attempt 1
+2024-10-20 14:35:48,429 - INFO - Download successful on attempt 1
+2024-10-20 14:35:48,740 - INFO - Download successful on attempt 1
+2024-10-20 14:35:48,775 - INFO - Download successful on attempt 1
+2024-10-20 15:22:56,156 - INFO - Visited page https://www.mykitsch.com/products/satin-heatless-curling-set-sunset-tie-dye
+2024-10-20 15:22:56,161 - INFO - Visited page https://www.mykitsch.com/products/castor-oil-shampoo-conditioner-bar-combo-2pc
+2024-10-20 15:22:56,184 - INFO - Scrolled 1000px and waiting 1 second...
+2024-10-20 15:22:56,188 - INFO - Scrolled 1000px and waiting 1 second...
+2024-10-20 15:22:57,265 - INFO - HTML for https://www.mykitsch.com/products/castor-oil-shampoo-conditioner-bar-combo-2pc saved to /Users/niloy/dabu_test/dabu_final_scrape/html_parse/new_of2.txt
+2024-10-20 15:22:57,293 - INFO - Browser context closed for https://www.mykitsch.com/products/castor-oil-shampoo-conditioner-bar-combo-2pc
+2024-10-20 15:22:57,298 - INFO - HTML for https://www.mykitsch.com/products/satin-heatless-curling-set-sunset-tie-dye saved to /Users/niloy/dabu_test/dabu_final_scrape/html_parse/new_of1.txt
+2024-10-20 15:22:57,321 - INFO - Browser context closed for https://www.mykitsch.com/products/satin-heatless-curling-set-sunset-tie-dye
+2024-10-20 15:22:57,326 - INFO - Browser closed after saving /Users/niloy/dabu_test/dabu_final_scrape/html_parse/new_of2.txt
+2024-10-20 15:22:57,349 - INFO - Browser closed after saving /Users/niloy/dabu_test/dabu_final_scrape/html_parse/new_of1.txt
+2024-10-20 15:23:24,782 - INFO - HTML AI Parse for https://www.mykitsch.com/products/satin-heatless-curling-set-sunset-tie-dye saved to /Users/niloy/dabu_test/dabu_final_scrape/html_parse/ai_parsed_info.txt
+2024-10-20 15:23:26,199 - INFO - HTML AI Parse for https://www.mykitsch.com/products/castor-oil-shampoo-conditioner-bar-combo-2pc saved to /Users/niloy/dabu_test/dabu_final_scrape/html_parse/ai_parsed_info.txt
+2024-10-20 15:24:26,642 - INFO - Visited page https://www.mykitsch.com/products/castor-oil-shampoo-conditioner-bar-combo-2pc
+2024-10-20 15:24:26,702 - INFO - Scrolled 1000px and waiting 1 second...
+2024-10-20 15:24:26,963 - INFO - Visited page https://www.mykitsch.com/products/satin-heatless-curling-set-sunset-tie-dye
+2024-10-20 15:24:27,009 - INFO - Scrolled 1000px and waiting 1 second...
+2024-10-20 15:24:27,787 - INFO - HTML for https://www.mykitsch.com/products/castor-oil-shampoo-conditioner-bar-combo-2pc saved to /Users/niloy/dabu_test/dabu_final_scrape/html_parse/new_of2.txt
+2024-10-20 15:24:27,811 - INFO - Browser context closed for https://www.mykitsch.com/products/castor-oil-shampoo-conditioner-bar-combo-2pc
+2024-10-20 15:24:27,847 - INFO - Browser closed after saving /Users/niloy/dabu_test/dabu_final_scrape/html_parse/new_of2.txt
+2024-10-20 15:24:28,074 - INFO - HTML for https://www.mykitsch.com/products/satin-heatless-curling-set-sunset-tie-dye saved to /Users/niloy/dabu_test/dabu_final_scrape/html_parse/new_of1.txt
+2024-10-20 15:24:28,094 - INFO - Browser context closed for https://www.mykitsch.com/products/satin-heatless-curling-set-sunset-tie-dye
+2024-10-20 15:24:28,132 - INFO - Browser closed after saving /Users/niloy/dabu_test/dabu_final_scrape/html_parse/new_of1.txt
+2024-10-20 15:24:51,132 - INFO - HTML AI Parse for https://www.mykitsch.com/products/satin-heatless-curling-set-sunset-tie-dye saved to /Users/niloy/dabu_test/dabu_final_scrape/html_parse/ai_parsed_info.txt
+2024-10-20 15:25:57,868 - INFO - HTML AI Parse for https://www.mykitsch.com/products/castor-oil-shampoo-conditioner-bar-combo-2pc saved to /Users/niloy/dabu_test/dabu_final_scrape/html_parse/ai_parsed_info.txt
+2024-10-20 15:37:25,626 - INFO - Browser context closed for h
+2024-10-20 15:37:25,644 - WARNING - Retry 1 failed for h. Error: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "h", waiting until "load"
+
+2024-10-20 15:37:26,062 - INFO - Browser context closed for h
+2024-10-20 15:37:26,078 - WARNING - Retry 2 failed for h. Error: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "h", waiting until "load"
+
+2024-10-20 15:37:26,448 - INFO - Browser context closed for h
+2024-10-20 15:37:26,465 - WARNING - Retry 3 failed for h. Error: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "h", waiting until "load"
+
+2024-10-20 15:37:26,465 - ERROR - All retries failed for h. Giving up.
+2024-10-20 15:43:39,907 - INFO - Browser context closed for h
+2024-10-20 15:43:39,924 - WARNING - Retry 1 failed for h. Error: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "h", waiting until "load"
+
+2024-10-20 15:43:40,347 - INFO - Browser context closed for h
+2024-10-20 15:43:40,363 - WARNING - Retry 2 failed for h. Error: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "h", waiting until "load"
+
+2024-10-20 15:43:40,738 - INFO - Browser context closed for h
+2024-10-20 15:43:40,753 - WARNING - Retry 3 failed for h. Error: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "h", waiting until "load"
+
+2024-10-20 15:43:40,753 - ERROR - All retries failed for h. Giving up.
+2024-10-20 15:58:02,329 - INFO - Visited page https://www.mykitsch.com/products/satin-heatless-curling-set-sunset-tie-dye
+2024-10-20 15:58:02,357 - INFO - Scrolled 1000px and waiting 1 second...
+2024-10-20 15:58:03,422 - INFO - HTML for https://www.mykitsch.com/products/satin-heatless-curling-set-sunset-tie-dye saved to /Users/niloy/dabu_test/dabu_final_scrape/html_parse/new_html.txt
+2024-10-20 15:58:03,447 - INFO - Browser context closed for https://www.mykitsch.com/products/satin-heatless-curling-set-sunset-tie-dye
+2024-10-20 15:58:03,473 - INFO - Browser closed after saving /Users/niloy/dabu_test/dabu_final_scrape/html_parse/new_html.txt
