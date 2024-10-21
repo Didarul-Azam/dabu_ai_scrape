@@ -33,9 +33,6 @@ def strip_url(url):
     return url
 async def save_page_html(url,output_file,retries=3):
     headers_lst = get_headers()
-    if not headers_lst:
-        logger.error("No headers available. Cannot proceed with saving HTML.")
-        return
 
     # Pick a random header
     random_index = randint(0, len(headers_lst) - 1)
